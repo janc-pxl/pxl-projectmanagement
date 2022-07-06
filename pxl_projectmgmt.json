@@ -1,0 +1,2575 @@
+{
+  "collections": {},
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "options": {
+      "exportNotes": true
+    },
+    "preferences": {
+      "DOIandURL": "both",
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "autoPinDelay": 0,
+      "automaticTags": true,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "url",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "authEtal2.lower+\"_\"+year",
+      "citekeyFormatBackup": "",
+      "citekeySearch": true,
+      "csquotes": "",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCSL": false,
+      "extraMergeCitekeys": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "",
+      "platform": "mac",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
+      "warnBulkModify": 0,
+      "warnTitleCased": false,
+      "worker": true
+    }
+  },
+  "items": [
+    {
+      "abstractNote": "DevOps (een samentrekking van \"development\" en \"operations\") is een gebruik en een praktijk binnen softwareontwikkeling die tot doel heeft softwareontwikkeling (Dev) en softwareoperaties (Ops) samen te brengen. Het hoofdkenmerk van de DevOps-beweging is het benadrukken van automatisering en monitoring in alle onderdelen bij het bouwen van software, van integratie, testen, release tot deployment en infrastructuurmanagement. DevOps probeert te komen tot kortere ontwikkelcycli, een verhoogde frequentie van oplevering en een meer betrouwbare oplevering, in nauwe overeenstemming met de businessdoelstellingen.\n\nIn 2009 bedacht Patrick Debois de term door een conferentie \"devopsdays\" te noemen, wat begon in België en wat sindsdien in andere landen overgenomen is.",
+      "accessDate": "2022-06-20T11:02:23Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/BSANZXIR/DevOps.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/BSANZXIR"
+        }
+      ],
+      "citationKey": "wikipediadevops_2021",
+      "citekey": "wikipediadevops_2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Wikipedia DevOps"
+        }
+      ],
+      "date": "2021-10-22T12:53:08Z",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "extra": "Page Version ID: 60214096",
+      "itemID": 211,
+      "itemKey": "2HI58IMG",
+      "itemType": "encyclopediaArticle",
+      "key": "2HI58IMG",
+      "language": "nl",
+      "libraryCatalog": "Wikipedia",
+      "libraryID": 2,
+      "notes": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "FQRQJBVR",
+          "note": "<div data-schema-version=\"8\">\n<p><strong><span style=\"color: #202122;\"><span style=\"background-color: #ffd40080;\">DevOps</span></span></strong><span style=\"color: #202122;\"><span style=\"background-color: #ffd40080;\"> (een samentrekking van \"development\" en \"operations\") is een gebruik en een praktijk binnen softwareontwikkeling die tot doel heeft softwareontwikkeling (Dev) en softwareoperaties (Ops) samen te brengen.</span></span></p>\n</div>",
+          "parentItem": "2HI58IMG",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/FQRQJBVR",
+          "version": 11
+        }
+      ],
+      "publicationTitle": "Wikipedia",
+      "relations": [],
+      "rights": "Creative Commons Attribution-ShareAlike License",
+      "select": "zotero://select/groups/4724240/items/2HI58IMG",
+      "tags": [],
+      "title": "DevOps",
+      "uri": "http://zotero.org/groups/4724240/items/2HI58IMG",
+      "url": "https://nl.wikipedia.org/w/index.php?title=DevOps&oldid=60214096",
+      "version": 10
+    },
+    {
+      "accessDate": "2022-06-27T15:20:40Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/EHN5ZETP/velocity.html",
+          "relations": [],
+          "tags": [],
+          "title": "What is Velocity in Agile? Charts & Examples | Adobe Workfront",
+          "uri": "http://zotero.org/groups/4724240/items/EHN5ZETP"
+        }
+      ],
+      "citationKey": "adobeworkfront_2022",
+      "citekey": "adobeworkfront_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Adobe Workfront"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 134,
+      "itemKey": "2JIMBRUM",
+      "itemType": "webpage",
+      "key": "2JIMBRUM",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/2JIMBRUM",
+      "tags": [],
+      "title": "What is Velocity in Agile? Charts & Examples | Adobe Workfront",
+      "uri": "http://zotero.org/groups/4724240/items/2JIMBRUM",
+      "url": "https://www.workfront.com/project-management/methodologies/agile/velocity",
+      "version": 3
+    },
+    {
+      "abstractNote": "Om als Product Owner de waarde van een project of product te maximaliseren, is goed stakeholdermanagement vereist. Dit is hoe dat moet.",
+      "accessDate": "2022-06-30T11:43:40Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-30T11:43:44Z",
+          "dateModified": "2022-06-30T11:43:44Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/EFHY7B3L/stakeholder-management-matrix-model.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/EFHY7B3L"
+        }
+      ],
+      "citationKey": "vanlier_2018",
+      "citekey": "vanlier_2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Willemijn",
+          "lastName": "van Lier"
+        }
+      ],
+      "date": "2018-10-04T08:51:23+00:00",
+      "dateAdded": "2022-06-30T11:43:39Z",
+      "dateModified": "2022-06-30T11:44:23Z",
+      "itemID": 231,
+      "itemKey": "3UVWTTWC",
+      "itemType": "blogPost",
+      "key": "3UVWTTWC",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Agile Scrum Group",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/3UVWTTWC",
+      "tags": [],
+      "title": "Stakeholdermanagement in projecten met Scrum",
+      "uri": "http://zotero.org/groups/4724240/items/3UVWTTWC",
+      "url": "https://agilescrumgroup.nl/stakeholder-management-matrix-model/",
+      "version": 87
+    },
+    {
+      "abstractNote": "veelal worden de begrippen nauwkeurigheid en precisie door elkaar gebruikt en worden ze als synoniemen beschouwd. deze twee termen hebben echter een verschillende betekenis. de nauwkeurigheid geeft aan hoe accuraat de meting is, ofwel hoe groot de afwijking is tussen de gemeten en werkelijke waarde. de precisie heeft betrekking op de spreiding van de gemeten waarden uit een serie metingen.",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/4G3P4WJ7/SICKipedia - 2021 - Het verschil tussen nauwkeurigheid en reproduceerb.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "SICKipedia - 2021 - Het verschil tussen nauwkeurigheid en reproduceerb.pdf",
+          "uri": "http://zotero.org/groups/4724240/items/4G3P4WJ7"
+        }
+      ],
+      "citationKey": "sickipedia_2021",
+      "citekey": "sickipedia_2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "SICKipedia"
+        }
+      ],
+      "date": "2021",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 126,
+      "itemKey": "48S8MBKN",
+      "itemType": "document",
+      "key": "48S8MBKN",
+      "libraryID": 2,
+      "notes": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "WPCS88AA",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2F26CS97QK%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2F26CS97QK%22%2C%22type%22%3A%22document%22%2C%22abstract%22%3A%22veelal%20worden%20de%20begrippen%20nauwkeurigheid%20en%20precisie%20door%20elkaar%20gebruikt%20en%20worden%20ze%20als%20synoniemen%20beschouwd.%20deze%20twee%20termen%20hebben%20echter%20een%20verschillende%20betekenis.%20de%20nauwkeurigheid%20geeft%20aan%20hoe%20accuraat%20de%20meting%20is%2C%20ofwel%20hoe%20groot%20de%20afwijking%20is%20tussen%20de%20gemeten%20en%20werkelijke%20waarde.%20de%20precisie%20heeft%20betrekking%20op%20de%20spreiding%20van%20de%20gemeten%20waarden%20uit%20een%20serie%20metingen.%22%2C%22publisher%22%3A%22SICK%22%2C%22title%22%3A%22Het%20verschil%20tussen%20nauwkeurigheid%20en%20reproduceerbaarheid%22%2C%22title-short%22%3A%22nauwkeurigheid%20versus%20reproduceerbaarheid%22%2C%22URL%22%3A%22https%3A%2F%2Fcdn.sick.com%2Fmedia%2Fcontent%2Fhcc%2Fhdf%2F9692943974430.pdf%22%2C%22author%22%3A%5B%7B%22family%22%3A%22SICKipedia%22%2C%22given%22%3A%22%22%7D%5D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222021%22%5D%5D%7D%7D%7D%5D\" data-schema-version=\"8\"><h1>Annotations<br/>(24/06/2022, 17:10:23)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2FG3WI6V7R%22%2C%22annotationKey%22%3A%22ECLFRYYH%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B42.52%2C629.362%2C289.153%2C640.018%5D%2C%5B42.52%2C618.562%2C289.169%2C629.038%5D%2C%5B42.52%2C607.762%2C289.238%2C618.238%5D%2C%5B42.52%2C596.962%2C143.381%2C607.438%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2F26CS97QK%22%5D%2C%22locator%22%3A%221%22%7D%7D\">“nauwkeurigheid of accuratesse is de graad van overeenstemming van een gemeten of berekende hoeveelheid met haar daadwerkelijke (ware) waarde. hoe groter de nauwkeurigheid, hoe kleiner de totale fout.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2F26CS97QK%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">SICKipedia, 2021, p. 1</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2FG3WI6V7R%22%2C%22annotationKey%22%3A%22INDJUSX9%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B42.52%2C575.362%2C289.174%2C586.018%5D%2C%5B42.52%2C564.562%2C289.223%2C575.038%5D%2C%5B42.52%2C553.762%2C289.148%2C564.238%5D%2C%5B42.52%2C542.962%2C289.148%2C553.438%5D%2C%5B42.52%2C532.162%2C289.106%2C542.638%5D%2C%5B42.52%2C521.362%2C273.11%2C531.838%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2F26CS97QK%22%5D%2C%22locator%22%3A%221%22%7D%7D\">“reproduceerbaarheid, herhaalnauwkeurigheid of precisie van een meting geeft, bij gelijke omstandigheden, aan hoe goed eenzelfde uitkomst wordt gehaald. bij afstandmeetsystemen wordt de maximale afwijking in mm aangegeven, waarmee een meting onder gelijke omstandigheden kan afwijken. reproduceerbaarheid is dus niet te verwarren met absolute nauwkeurigheid.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2F26CS97QK%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">SICKipedia, 2021, p. 1</span>)</span></p></div>",
+          "parentItem": "48S8MBKN",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/WPCS88AA",
+          "version": 2
+        }
+      ],
+      "publisher": "SICK",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/48S8MBKN",
+      "shortTitle": "nauwkeurigheid versus reproduceerbaarheid",
+      "tags": [],
+      "title": "Het verschil tussen nauwkeurigheid en reproduceerbaarheid",
+      "uri": "http://zotero.org/groups/4724240/items/48S8MBKN",
+      "url": "https://cdn.sick.com/media/content/hcc/hdf/9692943974430.pdf",
+      "version": 2
+    },
+    {
+      "abstractNote": "What is a user story and who is responsible for them? Learn how to write user stories—plus get a free user story template.",
+      "accessDate": "2022-06-27T14:33:30Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/7S5HCVNI/user-story.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/7S5HCVNI"
+        }
+      ],
+      "citationKey": "productplan_2022",
+      "citekey": "productplan_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "productplan"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 170,
+      "itemKey": "63BX82J2",
+      "itemType": "webpage",
+      "key": "63BX82J2",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/63BX82J2",
+      "tags": [],
+      "title": "User Story",
+      "uri": "http://zotero.org/groups/4724240/items/63BX82J2",
+      "url": "https://www.productplan.com/glossary/user-story/",
+      "version": 6
+    },
+    {
+      "abstractNote": "English Burn-down chart: a chart showing the decrease of remaining work against time. Burn-up chart: a chart showing the increase of a parameter, like value, against time. Daily Scrum: a daily event, time-boxed to 15 minutes or less, to re-plan the development work during a Sprint. The event serves to plan the work for the…",
+      "accessDate": "2022-06-27T14:09:27Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/II8SR585/scrum-glossary-dutch-version-2021.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "scrum-glossary-dutch-version-2021.pdf",
+          "uri": "http://zotero.org/groups/4724240/items/II8SR585"
+        },
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/FLXDTWQB/scrumglossary.org.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/FLXDTWQB"
+        }
+      ],
+      "citationKey": "verheyen_2022",
+      "citekey": "verheyen_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gunther",
+          "lastName": "Verheyen"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 131,
+      "itemKey": "6UJGXFI4",
+      "itemType": "webpage",
+      "key": "6UJGXFI4",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Scrum Glossary",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/6UJGXFI4",
+      "tags": [],
+      "title": "Scrum Glossary",
+      "uri": "http://zotero.org/groups/4724240/items/6UJGXFI4",
+      "url": "https://scrumglossary.org/",
+      "version": 2
+    },
+    {
+      "DOI": "10.1108/01443579810199720",
+      "ISSN": "0144-3577",
+      "abstractNote": "A new approach to the management of production and operations was developed by Goldratt in the late 1970s. Now known as the theory of constraints (TOC), it provides a coherent management theory for running an organisation. It has two major components: a philosophy which underpins the working principle of on‐going improvement, and a generic approach for investigating, analysing and creating solutions to problems called the “thinking process” (TP). During the last decade several books and many articles have been published, and a journal has been established which deals solely with the TOC. This paper contains an analysis of a comprehensive list of publications on the TOC. Identified themes are classified as conceptual explanation and enhancement of the approach, comparison with other techniques based on its philosophy, and applications in areas such as production, purchasing, accounting, administration, education and quality management.",
+      "accessDate": "2022-06-22T12:35:21Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/FZ5BKR4L/html.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/FZ5BKR4L"
+        }
+      ],
+      "citationKey": "rahman_1998",
+      "citekey": "rahman_1998",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shams‐ur",
+          "lastName": "Rahman"
+        }
+      ],
+      "date": "1998-01-01",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "extra": "Publisher: MCB UP Ltd",
+      "issue": "4",
+      "itemID": 176,
+      "itemKey": "878H5SL8",
+      "itemType": "journalArticle",
+      "key": "878H5SL8",
+      "libraryCatalog": "Emerald Insight",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "336-355",
+      "publicationTitle": "International Journal of Operations & Production Management",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/878H5SL8",
+      "shortTitle": "Theory of constraints",
+      "tags": [
+        {
+          "tag": "Operations management",
+          "type": 1
+        },
+        {
+          "tag": "Philosophy",
+          "type": 1
+        },
+        {
+          "tag": "Production management",
+          "type": 1
+        },
+        {
+          "tag": "Theory of constraints",
+          "type": 1
+        }
+      ],
+      "title": "Theory of constraints: A review of the philosophy and its applications",
+      "uri": "http://zotero.org/groups/4724240/items/878H5SL8",
+      "url": "https://doi.org/10.1108/01443579810199720",
+      "version": 7,
+      "volume": "18"
+    },
+    {
+      "accessDate": "2022-06-22T07:30:54Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/HMESAIFK/business-case.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/HMESAIFK"
+        }
+      ],
+      "citationKey": "vlaanderenintern_2014",
+      "citekey": "vlaanderenintern_2014",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "vlaanderen intern"
+        }
+      ],
+      "date": "2014-03-21T11:51:08+01:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 205,
+      "itemKey": "8GVAZ6EM",
+      "itemType": "webpage",
+      "key": "8GVAZ6EM",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Vlaanderen Intern",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/8GVAZ6EM",
+      "tags": [],
+      "title": "Business Case",
+      "uri": "http://zotero.org/groups/4724240/items/8GVAZ6EM",
+      "url": "https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case",
+      "version": 10
+    },
+    {
+      "abstractNote": "Wat is een Scrum Board? Hier een voorbeeld met een uitgebreide beschrijving hoe een scrum board werkt en een User Story van taak naar geaccepteerd gaat.",
+      "accessDate": "2022-06-29T11:51:14Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-29T11:51:24Z",
+          "dateModified": "2022-06-29T11:51:24Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/C66QU2C7/scrum-board.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/C66QU2C7"
+        }
+      ],
+      "citationKey": "agile4all_2018",
+      "citekey": "agile4all_2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "agile4all"
+        }
+      ],
+      "date": "2018-12-16T12:04:24+00:00",
+      "dateAdded": "2022-06-29T11:51:14Z",
+      "dateModified": "2022-06-29T11:51:36Z",
+      "itemID": 223,
+      "itemKey": "8NIASNIS",
+      "itemType": "webpage",
+      "key": "8NIASNIS",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "agile4all",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/8NIASNIS",
+      "tags": [],
+      "title": "Scrum Board",
+      "uri": "http://zotero.org/groups/4724240/items/8NIASNIS",
+      "url": "https://www.agile4all.nl/scrum-board/",
+      "version": 64
+    },
+    {
+      "abstractNote": "See what is Product Owner role and how to become an effective one and deliver great products.",
+      "accessDate": "2022-06-27T10:58:21Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/A4UUTYJE/being-an-effective-product-owner.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/A4UUTYJE"
+        }
+      ],
+      "citationKey": "userstorymap_2022",
+      "citekey": "userstorymap_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "userstorymap"
+        }
+      ],
+      "date": "2022-02-09T05:27:14+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 189,
+      "itemKey": "9JVQR7QI",
+      "itemType": "blogPost",
+      "key": "9JVQR7QI",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "User Story Map for Jira",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/9JVQR7QI",
+      "tags": [],
+      "title": "How to Be An Effective Product Owner",
+      "uri": "http://zotero.org/groups/4724240/items/9JVQR7QI",
+      "url": "https://www.userstorymap.io/being-an-effective-product-owner/",
+      "version": 8
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/6SJX2CNN/Schegget and Hamelink - 1993 - Netwerkplanning volgens PERT.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Schegget and Hamelink - 1993 - Netwerkplanning volgens PERT.pdf",
+          "uri": "http://zotero.org/groups/4724240/items/6SJX2CNN"
+        }
+      ],
+      "citationKey": "schegget.hamelink_1993",
+      "citekey": "schegget.hamelink_1993",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "ter, P.J.",
+          "lastName": "Schegget"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "L.J.",
+          "lastName": "Hamelink"
+        }
+      ],
+      "date": "1993",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 122,
+      "itemKey": "AU73QI8P",
+      "itemType": "book",
+      "key": "AU73QI8P",
+      "libraryCatalog": "Technische Universiteit Eindhoven onderzoeksportaal",
+      "libraryID": 2,
+      "notes": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "7KTAHQ7C",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2FWLPTS3XL%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2FWLPTS3XL%22%2C%22type%22%3A%22book%22%2C%22collection-title%22%3A%22TH%20Eindhoven.%20Afd.%20Werktuigbouwkunde%2C%20Vakgroep%20Produktietechnologie%20%3A%20WPB%22%2C%22event-place%22%3A%22Eindhoven%22%2C%22publisher%22%3A%22Technische%20Universiteit%20Eindhoven%22%2C%22publisher-place%22%3A%22Eindhoven%22%2C%22source%22%3A%22Technische%20Universiteit%20Eindhoven%20onderzoeksportaal%22%2C%22title%22%3A%22Netwerkplanning%20volgens%20PERT%22%2C%22URL%22%3A%22https%3A%2F%2Fresearch.tue.nl%2Ffiles%2F4340148%2F501362.pdf%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Schegget%22%2C%22given%22%3A%22ter%22%2C%22suffix%22%3A%22P.J.%22%7D%2C%7B%22family%22%3A%22Hamelink%22%2C%22given%22%3A%22L.J.%22%7D%5D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%221993%22%5D%5D%7D%7D%7D%5D\" data-schema-version=\"8\"><h1>Annotations<br>(22/06/2022, 09:34:06)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2FVSSSMBWC%22%2C%22annotationKey%22%3A%22SGPHI2C4%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%224%22%2C%22position%22%3A%7B%22pageIndex%22%3A5%2C%22rects%22%3A%5B%5B19.231%2C731.207%2C472.672%2C743.207%5D%2C%5B18.786%2C717.241%2C472.717%2C729.241%5D%2C%5B18.667%2C703.515%2C346.573%2C715.515%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2FWLPTS3XL%22%5D%2C%22locator%22%3A%224%22%7D%7D\">“Netwerk modellen zijn een hulpmiddel voor de bedrijfsleiding bij de analyse en planning van projecten. Er wordt gebruik gemaakt van een grafische voorstelling om de verbanden tussen de werkzaamheden aan te geven.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F9685140%2Fitems%2FWLPTS3XL%22%5D%2C%22locator%22%3A%224%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Schegget and Hamelink, 1993, p. 4</span>)</span></p>\n</div>",
+          "parentItem": "AU73QI8P",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/7KTAHQ7C",
+          "version": 2
+        }
+      ],
+      "place": "Eindhoven",
+      "publisher": "Technische Universiteit Eindhoven",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/AU73QI8P",
+      "series": "TH Eindhoven. Afd. Werktuigbouwkunde, Vakgroep Produktietechnologie : WPB",
+      "tags": [],
+      "title": "Netwerkplanning volgens PERT",
+      "uri": "http://zotero.org/groups/4724240/items/AU73QI8P",
+      "url": "https://research.tue.nl/files/4340148/501362.pdf",
+      "version": 2
+    },
+    {
+      "abstractNote": "How to facilitate a Product Backlog Refinement meeting? What do you do as a Scrum Master to keep the item under refinement on track? When do you estimate and what do you do when you need more time for discussion? In this third post of this series on Product Backlog refinement you will find some good practices on how to facilitate an effective and efficient refinement meeting.\nThis series consists of three posts:",
+      "accessDate": "2022-06-27T15:15:53Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/XNRPEPVU/product-backlog-refinement-explained-33.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/XNRPEPVU"
+        }
+      ],
+      "citationKey": "vanrooden_2015a",
+      "citekey": "vanrooden_2015a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Stephan",
+          "lastName": "van Rooden"
+        }
+      ],
+      "date": "2015",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 195,
+      "itemKey": "AUGWSIH9",
+      "itemType": "webpage",
+      "key": "AUGWSIH9",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Scrum.org",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/AUGWSIH9",
+      "tags": [],
+      "title": "Product Backlog Refinement explained (3/3)",
+      "uri": "http://zotero.org/groups/4724240/items/AUGWSIH9",
+      "url": "https://www.scrum.org/resources/blog/product-backlog-refinement-explained-33",
+      "version": 9
+    },
+    {
+      "abstractNote": "Een Communicatieplan maken kun je doen op Strategisch Niveau, Tactisch Niveau of Operationeel Niveau. Bij elk nive…",
+      "accessDate": "2022-06-23T07:13:11Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/NQ8LEM2A/strategisch-tactisch-operationeel-niveau.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/NQ8LEM2A"
+        }
+      ],
+      "citationKey": "smals_2014",
+      "citekey": "smals_2014",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Harry",
+          "lastName": "Smals"
+        }
+      ],
+      "date": "2014-08-31T09:38:30+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 181,
+      "itemKey": "BH69WSJG",
+      "itemType": "blogPost",
+      "key": "BH69WSJG",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Communicatie KC",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/BH69WSJG",
+      "tags": [],
+      "title": "Strategisch, Tactisch, Operationeel niveau",
+      "uri": "http://zotero.org/groups/4724240/items/BH69WSJG",
+      "url": "https://communicatiekc.com/strategisch-tactisch-operationeel-niveau/",
+      "version": 7
+    },
+    {
+      "abstractNote": "Wat is de Sprint Review? Waarom is deze meeting belangrijk? Wat zijn valkuilen voor deze meeting? Lees alles hierover in deze blog.",
+      "accessDate": "2022-07-01T11:00:51Z",
+      "attachments": [],
+      "citationKey": "agilescrumgroup_2018",
+      "citekey": "agilescrumgroup_2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Agile Scrum Group"
+        }
+      ],
+      "date": "2018-06-20T12:39:34+00:00",
+      "dateAdded": "2022-07-01T11:00:55Z",
+      "dateModified": "2022-07-01T11:01:10Z",
+      "itemID": 234,
+      "itemKey": "CRVEWZAV",
+      "itemType": "blogPost",
+      "key": "CRVEWZAV",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Agile Scrum Group",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/CRVEWZAV",
+      "shortTitle": "De Sprint Review uitgelegd. Waarom deze meeting?",
+      "tags": [],
+      "title": "De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)",
+      "uri": "http://zotero.org/groups/4724240/items/CRVEWZAV",
+      "url": "https://agilescrumgroup.nl/sprint-review/",
+      "version": 89
+    },
+    {
+      "abstractNote": "Met een SMART doelstelling wordt er richting gegeven aan wat men wil bereiken. SMART staat voor Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdgebonden",
+      "accessDate": "2022-06-24T11:34:21Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/LD76E5GS/smart-doelen.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/LD76E5GS"
+        }
+      ],
+      "citationKey": "toolshero_2022",
+      "citekey": "toolshero_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "toolshero"
+        }
+      ],
+      "date": "2022-02-04T10:09:53+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 187,
+      "itemKey": "CVRB3XH7",
+      "itemType": "blogPost",
+      "key": "CVRB3XH7",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Toolshero",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/CVRB3XH7",
+      "tags": [],
+      "title": "SMART Doelen",
+      "uri": "http://zotero.org/groups/4724240/items/CVRB3XH7",
+      "url": "https://www.toolshero.nl/persoonlijke-ontwikkeling/smart-doelen/",
+      "version": 8
+    },
+    {
+      "abstractNote": "Kwaliteitskringen met info over activiteiten, KP punten, accreditatie en voorbeelden",
+      "accessDate": "2022-06-22T13:26:04Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/B7LUK63C/kwaliteitskringen.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/B7LUK63C"
+        }
+      ],
+      "citationKey": "nederlandovn_2021",
+      "citekey": "nederlandovn_2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Optometristen Vereniging",
+          "lastName": "Nederland (OVN)"
+        }
+      ],
+      "date": "2021",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 166,
+      "itemKey": "EQWNPKZ5",
+      "itemType": "webpage",
+      "key": "EQWNPKZ5",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/EQWNPKZ5",
+      "tags": [],
+      "title": "Kwaliteitskringen | Optometristen Vereniging Nederland (OVN)",
+      "uri": "http://zotero.org/groups/4724240/items/EQWNPKZ5",
+      "url": "https://www.optometrie.nl/optometrist/organisatie-beleid/ovn-organisatie/kwaliteitskringen",
+      "version": 6
+    },
+    {
+      "accessDate": "2022-06-20T14:25:38Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/TJGWJC7F/duivelsdriehoek-duivelsvierkant.html",
+          "relations": [],
+          "tags": [],
+          "title": "House of Control",
+          "uri": "http://zotero.org/groups/4724240/items/TJGWJC7F"
+        }
+      ],
+      "citationKey": "sjoerdoldebijvank_2010",
+      "citekey": "sjoerdoldebijvank_2010",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Sjoerd Olde Bijvank"
+        }
+      ],
+      "date": "2010",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 178,
+      "itemKey": "EUVCPBPX",
+      "itemType": "webpage",
+      "key": "EUVCPBPX",
+      "libraryID": 2,
+      "notes": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "RPBGW8GC",
+          "note": "<p><span>De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn </span><strong>tijd, geld</strong><span> en</span><strong> kwaliteit</strong><span>. Het managen van projecten gaat dus om het managen van deze drie variabelen.</span></p>",
+          "parentItem": "EUVCPBPX",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/RPBGW8GC",
+          "version": 7
+        }
+      ],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/EUVCPBPX",
+      "tags": [],
+      "title": "House of Control",
+      "uri": "http://zotero.org/groups/4724240/items/EUVCPBPX",
+      "url": "https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html",
+      "version": 7
+    },
+    {
+      "abstractNote": "Wie op korte termijn winst wil boeken, zal proberen om klanten binnen te halen, uit te wringen en dan maar zien wat er gebeurt. Wie een klantvriendelijk bedrijf wil worden en ook op lange termijn winstgevend wil blijven, moet het anders doen, en zorgen dat de klanten blijven terugkomen.\n\nKlanten vinden het belangrijk dat hun product",
+      "accessDate": "2022-06-20T14:59:58Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/WKA3K2DM/kiezen-tussen-klant-en-medewerker.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/WKA3K2DM"
+        }
+      ],
+      "citationKey": "stevenblom_2018",
+      "citekey": "stevenblom_2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Steven Blom"
+        }
+      ],
+      "date": "2018-09-10T13:03:08+01:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "extra": "Section: Industrie 4.0 Blog | Lean, Monozukuri, TPM, SGA, OEE en meer",
+      "itemID": 183,
+      "itemKey": "EYZC8LW9",
+      "itemType": "webpage",
+      "key": "EYZC8LW9",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Blom Consultancy",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/EYZC8LW9",
+      "tags": [],
+      "title": "Moeten we kiezen tussen de klant en de medewerker?",
+      "uri": "http://zotero.org/groups/4724240/items/EYZC8LW9",
+      "url": "https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/",
+      "version": 8
+    },
+    {
+      "abstractNote": "In today’s competitive business world, you need steady and experienced management to guide your strategies. Project management and product management are very important yet distinct positions, and they are often interchangeably confused by all levels of business executives.\n\nIn this article, you will learn about the definitions and differences between Product Management and its counterpart Project Management, and the responsibilities of Product Managers and Project Managers. Hopefully, it will help you understand the Product Manager vs Project Manager debate.",
+      "accessDate": "2022-06-20T11:12:45Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/6FGQ3Z2H/the-difference-between-product-and-project-management.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/6FGQ3Z2H"
+        }
+      ],
+      "citationKey": "gomez_2021",
+      "citekey": "gomez_2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jose",
+          "lastName": "Gomez"
+        }
+      ],
+      "date": "2021-04-22T17:00+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 154,
+      "itemKey": "F9XC7PHS",
+      "itemType": "webpage",
+      "key": "F9XC7PHS",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "HLLB8MAI",
+          "note": "<div data-schema-version=\"8\"><p><span style=\"color: rgb(255, 255, 255)\"><span style=\"background-color: rgb(0, 52, 61)\">A&nbsp;</span></span><strong><span style=\"color: rgb(255, 255, 255)\"><span style=\"background-color: rgb(0, 52, 61)\">product&nbsp;</span></span></strong><span style=\"color: rgb(255, 255, 255)\"><span style=\"background-color: rgb(0, 52, 61)\">is anything that can be offered to a market to solve a problem, or to satisfy a want or need. Products have a cycle that consists of multiple stages. First, the product is conceived, then developed, then introduced and managed in the market, and finally, the product is retired when the need for it diminishes. Products are usually developed by a product team.</span></span></p>\n</div>",
+          "parentItem": "F9XC7PHS",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/HLLB8MAI",
+          "version": 5
+        },
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "VNBQWMQS",
+          "note": "<div data-schema-version=\"8\"><p><span style=\"color: rgb(255, 255, 255)\"><span style=\"background-color: rgb(0, 52, 61)\">A&nbsp;</span></span><strong><span style=\"color: rgb(255, 255, 255)\"><span style=\"background-color: rgb(0, 52, 61)\">project</span></span></strong><span style=\"color: rgb(255, 255, 255)\"><span style=\"background-color: rgb(0, 52, 61)\">&nbsp;is a temporary endeavor that is undertaken to create a unique product or service. With a project, there is a clear definition of what needs to be delivered by a specified date in time. Like in the previous item, projects are usually carried out by a project team.&nbsp;</span></span></p>\n</div>",
+          "parentItem": "F9XC7PHS",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/VNBQWMQS",
+          "version": 5
+        }
+      ],
+      "publicationTitle": "Koombea",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/F9XC7PHS",
+      "tags": [],
+      "title": "The Difference Between Product and Project Management",
+      "uri": "http://zotero.org/groups/4724240/items/F9XC7PHS",
+      "url": "https://www.koombea.com/blog/the-difference-between-product-and-project-management/",
+      "version": 5
+    },
+    {
+      "abstractNote": "Iterative and incremental development is any combination of both iterative design or iterative method and incremental build model for development.  \nUsage of the term began in software development, with a long-standing combination of the two terms iterative and incremental having been widely suggested for large development efforts. For example, the 1985 DOD-STD-2167\nmentions (in section 4.1.2): \"During software development, more than one iteration of the software development cycle may be in progress at the same time.\" and \"This process may be described as an 'evolutionary acquisition' or 'incremental build' approach.\" In software, the relationship between iterations and increments is determined by the overall software development process.",
+      "accessDate": "2022-06-27T10:30:30Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/VYEHZPEA/Iterative_and_incremental_development.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/VYEHZPEA"
+        }
+      ],
+      "citationKey": "wikipedia_2022",
+      "citekey": "wikipedia_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Wikipedia"
+        }
+      ],
+      "date": "2022-05-31T17:02:07Z",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "extra": "Page Version ID: 1090834243",
+      "itemID": 209,
+      "itemKey": "FCQE6M7W",
+      "itemType": "encyclopediaArticle",
+      "key": "FCQE6M7W",
+      "language": "en",
+      "libraryCatalog": "Wikipedia",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Wikipedia",
+      "relations": [],
+      "rights": "Creative Commons Attribution-ShareAlike License",
+      "select": "zotero://select/groups/4724240/items/FCQE6M7W",
+      "tags": [],
+      "title": "Iterative and incremental development",
+      "uri": "http://zotero.org/groups/4724240/items/FCQE6M7W",
+      "url": "https://en.wikipedia.org/w/index.php?title=Iterative_and_incremental_development&oldid=1090834243",
+      "version": 10
+    },
+    {
+      "abstractNote": "A Scrum team is made up of three roles: the Scrum master, the product owner, and development team members.",
+      "accessDate": "2022-06-27T16:57:46Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/8TJAKRNX/scrum-roles-and-responsibilities.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/8TJAKRNX"
+        }
+      ],
+      "citationKey": "coursera_2022",
+      "citekey": "coursera_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Coursera"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 144,
+      "itemKey": "G2SQY4BR",
+      "itemType": "webpage",
+      "key": "G2SQY4BR",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Coursera",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/G2SQY4BR",
+      "tags": [],
+      "title": "The 3 Scrum Roles and Responsibilities, Explained",
+      "uri": "http://zotero.org/groups/4724240/items/G2SQY4BR",
+      "url": "https://www.coursera.org/articles/scrum-roles-and-responsibilities",
+      "version": 4
+    },
+    {
+      "accessDate": "2022-06-28T06:33:39Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/MNNKHLWC/What-are-the-complete-Scrum-artifacts-1102.html",
+          "relations": [],
+          "tags": [],
+          "title": "What Are The Complete Scrum Artifacts? - Agile - ZenTao",
+          "uri": "http://zotero.org/groups/4724240/items/MNNKHLWC"
+        }
+      ],
+      "citationKey": "zentaoteam_2022",
+      "citekey": "zentaoteam_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "ZenTao team"
+        }
+      ],
+      "date": "17/02/2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 216,
+      "itemKey": "GJBZQU9P",
+      "itemType": "webpage",
+      "key": "GJBZQU9P",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/GJBZQU9P",
+      "tags": [],
+      "title": "What Are The Complete Scrum Artifacts? - Agile - ZenTao",
+      "uri": "http://zotero.org/groups/4724240/items/GJBZQU9P",
+      "url": "https://www.zentao.pm/blog/What-are-the-complete-Scrum-artifacts-1102.html",
+      "version": 11
+    },
+    {
+      "abstractNote": "A product portfolio is comprised of all the products which an organization has. A product portfolio may comprise of different categories",
+      "accessDate": "2022-06-20T10:59:47Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/LRV5ZDJD/product-portfolio.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/LRV5ZDJD"
+        }
+      ],
+      "citationKey": "hiteshbhasin_2015",
+      "citekey": "hiteshbhasin_2015",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Hitesh Bhasin"
+        }
+      ],
+      "date": "2015-01-15T15:54:44+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 160,
+      "itemKey": "GTQ3T2LP",
+      "itemType": "webpage",
+      "key": "GTQ3T2LP",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Marketing91",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/GTQ3T2LP",
+      "tags": [],
+      "title": "What is Product portfolio management ?",
+      "uri": "http://zotero.org/groups/4724240/items/GTQ3T2LP",
+      "url": "https://www.marketing91.com/product-portfolio/",
+      "version": 5
+    },
+    {
+      "abstractNote": "Scrum is een samenhangend framework van regels, rollen en principes die mensen en organisaties ondersteunen, maar dat afhankelijk van de exacte situatie en context ingevuld kan worden. Scrum is een…",
+      "accessDate": "2022-06-28T06:46:50Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/R2FLVHSB/de-kernwaarden-van-scrum.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/R2FLVHSB"
+        }
+      ],
+      "citationKey": "verheyen_2017",
+      "citekey": "verheyen_2017",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gunther",
+          "lastName": "Verheyen"
+        }
+      ],
+      "date": "2017-02-15T14:45:45+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-07-02T16:25:46Z",
+      "itemID": 201,
+      "itemKey": "H5SJKHRX",
+      "itemType": "webpage",
+      "key": "H5SJKHRX",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Ullizee-Inc",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/H5SJKHRX",
+      "tags": [],
+      "title": "De kernwaarden van Scrum",
+      "uri": "http://zotero.org/groups/4724240/items/H5SJKHRX",
+      "url": "https://guntherverheyen.com/2017/02/15/de-kernwaarden-van-scrum/",
+      "version": 94
+    },
+    {
+      "abstractNote": "Onze kijk op de rol van Scrum Master binnen onze software teams. Een 7-tal jaar geleden evolueerden wij van een IT-bodyshopping bedrijf naar een bedrijf met een TaaS aanpak ofte ‘team as a service’. Die switch kwam natuurlijk niet zomaar uit de lucht vallen. Een aantal negatieve ervaringen uit het verleden gecombineerd met onze nooit…",
+      "accessDate": "2022-06-27T14:26:56Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/H6GDPNX2/scrum-master-teambuilder-of-agile-coach.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/H6GDPNX2"
+        }
+      ],
+      "citationKey": "qframe_2021",
+      "citekey": "qframe_2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "qframe"
+        }
+      ],
+      "date": "2021-06-25T11:20:53+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 172,
+      "itemKey": "HDIVHHPZ",
+      "itemType": "webpage",
+      "key": "HDIVHHPZ",
+      "language": "nl-BE",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Qframe",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/HDIVHHPZ",
+      "tags": [],
+      "title": "Scrum Master, Teambuilder of Agile Coach?",
+      "uri": "http://zotero.org/groups/4724240/items/HDIVHHPZ",
+      "url": "https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/",
+      "version": 7
+    },
+    {
+      "abstractNote": "Het Scrum takenbord Binnen Scrum wordt gewerkt met een takenbord. Het Scrum takenbord is bedoeld als hulpmiddel bij het overzichtelijk maken van de stand van zaken binnen een sprint. Alle taken die voor een sprint geselecteerd zijn, worden opgenomen in de Sprint Backlog en hangen op post-its in één van de drie kolommen op het […]",
+      "accessDate": "2022-07-01T11:21:07Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-01T11:21:11Z",
+          "dateModified": "2022-07-01T11:21:11Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/XHK4QUE2/scrumbord.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/XHK4QUE2"
+        }
+      ],
+      "citationKey": "scrumguide_2022a",
+      "citekey": "scrumguide_2022a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Scrumguide"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-07-01T11:21:07Z",
+      "dateModified": "2022-07-01T11:21:36Z",
+      "itemID": 235,
+      "itemKey": "I4D8Q6VK",
+      "itemType": "blogPost",
+      "key": "I4D8Q6VK",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Scrumguide",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/I4D8Q6VK",
+      "tags": [],
+      "title": "Scrum takenbord | Scrumguide.nl",
+      "uri": "http://zotero.org/groups/4724240/items/I4D8Q6VK",
+      "url": "https://scrumguide.nl/scrumbord/",
+      "version": 93
+    },
+    {
+      "abstractNote": "🕑 Reading time: 1 minute A Dummy activity is a type of operation in a project network which neither requires any time nor any resource. It is an imaginary activity shown in a project network to identify the dependence among operation. The representation and more features of dummy activity in network analysis are explained below. […]",
+      "accessDate": "2022-06-21T07:51:55Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/UD7HTHDR/31502.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/UD7HTHDR"
+        }
+      ],
+      "citationKey": "theconstructor_2019",
+      "citekey": "theconstructor_2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "TheConstructor"
+        }
+      ],
+      "date": "2019-03-24T15:35:55+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 185,
+      "itemKey": "I9EHUFB4",
+      "itemType": "webpage",
+      "key": "I9EHUFB4",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "The Constructor",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/I9EHUFB4",
+      "tags": [],
+      "title": "Dummy Activity in Network Analysis",
+      "uri": "http://zotero.org/groups/4724240/items/I9EHUFB4",
+      "url": "https://theconstructor.org/construction/dummy-activity-network-analysis/31502/",
+      "version": 8
+    },
+    {
+      "abstractNote": "Kwaliteitsmanagement is de tak van het management die streeft naar een zo hoog mogelijke kwaliteit van een product, productieproces, dienst of organisatie. Kwaliteitsmanagement is geen afgebakend vakgebied, maar komt terug in alle delen van het management van een onderneming.",
+      "accessDate": "2022-06-22T13:16:37Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/LDNNE82G/Kwaliteitsmanagement.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/LDNNE82G"
+        }
+      ],
+      "citationKey": "wikipediakwaliteitsmanagement_2020",
+      "citekey": "wikipediakwaliteitsmanagement_2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Wikipedia kwaliteitsmanagement"
+        }
+      ],
+      "date": "2020-03-18T17:56:09Z",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "extra": "Page Version ID: 55870333",
+      "itemID": 214,
+      "itemKey": "JWSVKEC6",
+      "itemType": "encyclopediaArticle",
+      "key": "JWSVKEC6",
+      "language": "nl",
+      "libraryCatalog": "Wikipedia",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Wikipedia",
+      "relations": [],
+      "rights": "Creative Commons Attribution-ShareAlike License",
+      "select": "zotero://select/groups/4724240/items/JWSVKEC6",
+      "tags": [],
+      "title": "Kwaliteitsmanagement",
+      "uri": "http://zotero.org/groups/4724240/items/JWSVKEC6",
+      "url": "https://nl.wikipedia.org/w/index.php?title=Kwaliteitsmanagement&oldid=55870333",
+      "version": 11
+    },
+    {
+      "accessDate": "2022-06-24T12:28:56Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/BLSAN9CY/het-negen-vlakken-model.html",
+          "relations": [],
+          "tags": [],
+          "title": "Het negen vlakken model - slagkracht-outsourcing",
+          "uri": "http://zotero.org/groups/4724240/items/BLSAN9CY"
+        }
+      ],
+      "citationKey": "overbeeke_2022",
+      "citekey": "overbeeke_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Koos",
+          "lastName": "Overbeeke"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 168,
+      "itemKey": "LIBPKG5V",
+      "itemType": "webpage",
+      "key": "LIBPKG5V",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/LIBPKG5V",
+      "tags": [],
+      "title": "Het negen vlakken model - slagkracht-outsourcing",
+      "uri": "http://zotero.org/groups/4724240/items/LIBPKG5V",
+      "url": "https://www.slagkracht-outsourcing.nl/het-negen-vlakken-model",
+      "version": 6
+    },
+    {
+      "abstractNote": "Project Management life cycle is a five-step framework to assist project managers in completing projects successfully. Click to read on!",
+      "accessDate": "2022-06-20T11:31:53Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/J9QSCI8M/5-phases-project-management-lifecycle.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/J9QSCI8M"
+        }
+      ],
+      "citationKey": "brown_2019",
+      "citekey": "brown_2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lucy",
+          "lastName": "Brown"
+        }
+      ],
+      "date": "2019-08-26T10:01:13+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 138,
+      "itemKey": "LQ4CEL2H",
+      "itemType": "blogPost",
+      "key": "LQ4CEL2H",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Invensis Learning Blog",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/LQ4CEL2H",
+      "tags": [],
+      "title": "The Project Management Life Cycle, and Its 5 Phases",
+      "uri": "http://zotero.org/groups/4724240/items/LQ4CEL2H",
+      "url": "https://www.invensislearning.com/blog/5-phases-project-management-lifecycle/",
+      "version": 3
+    },
+    {
+      "abstractNote": "Een beproefde methode binnen scrum om product backlog items in te schatten is die van de story points. Wat zijn story points eigenlijk? En hoe gebruik je ze?",
+      "accessDate": "2022-06-30T09:44:24Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-30T09:44:52Z",
+          "dateModified": "2022-06-30T09:44:52Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/XVVZRLLF/story-points-hoe-werken-ze-eigenlijk.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/XVVZRLLF"
+        }
+      ],
+      "citationKey": "vrielink_2020",
+      "citekey": "vrielink_2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Martijn",
+          "lastName": "Vrielink"
+        }
+      ],
+      "date": "06/01/2020",
+      "dateAdded": "2022-06-30T09:44:24Z",
+      "dateModified": "2022-06-30T11:27:59Z",
+      "itemID": 229,
+      "itemKey": "LYJVS5XK",
+      "itemType": "webpage",
+      "key": "LYJVS5XK",
+      "language": "nl-NL",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/LYJVS5XK",
+      "tags": [],
+      "title": "Hoe werken story points?",
+      "uri": "http://zotero.org/groups/4724240/items/LYJVS5XK",
+      "url": "https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk",
+      "version": 82
+    },
+    {
+      "accessDate": "2022-06-21T07:52:41Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/5TVQ5W7G/netaoa.html",
+          "relations": [],
+          "tags": [],
+          "title": "Network analysis - activity on arc",
+          "uri": "http://zotero.org/groups/4724240/items/5TVQ5W7G"
+        }
+      ],
+      "citationKey": "beasley_2013",
+      "citekey": "beasley_2013",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "J E",
+          "lastName": "Beasley"
+        }
+      ],
+      "date": "2013",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 136,
+      "itemKey": "NA57SJH6",
+      "itemType": "webpage",
+      "key": "NA57SJH6",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/NA57SJH6",
+      "tags": [],
+      "title": "Network analysis - activity on arc",
+      "uri": "http://zotero.org/groups/4724240/items/NA57SJH6",
+      "url": "http://people.brunel.ac.uk/~mastjjb/jeb/or/netaoa.html",
+      "version": 3
+    },
+    {
+      "abstractNote": "De Lean methode is een managementfilosofie die zich richt op het tegenhouden en elimineren van verspillingen.",
+      "accessDate": "2022-06-22T12:22:34Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/Z9GEE9RS/lean-management.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/Z9GEE9RS"
+        }
+      ],
+      "citationKey": "janse_2020",
+      "citekey": "janse_2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "B.",
+          "lastName": "Janse"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 162,
+      "itemKey": "NGB98BF6",
+      "itemType": "blogPost",
+      "key": "NGB98BF6",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Toolshero",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/NGB98BF6",
+      "tags": [],
+      "title": "LEAN management",
+      "uri": "http://zotero.org/groups/4724240/items/NGB98BF6",
+      "url": "https://www.toolshero.nl/kwaliteitsmanagement/lean-management/",
+      "version": 6
+    },
+    {
+      "abstractNote": "Sprint Planning is een Scrum Event aan het begin van een Sprint. Het team bepaalt aan welke Product Backlog items ze gaan werken. Lees meer.",
+      "accessDate": "2022-06-29T11:31:07Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-29T11:31:24Z",
+          "dateModified": "2022-06-29T11:31:24Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/3L5T9Y6X/sprint-planning.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/3L5T9Y6X"
+        }
+      ],
+      "citationKey": "agile4all_2019",
+      "citekey": "agile4all_2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "agile4all"
+        }
+      ],
+      "date": "2019-01-06T10:35:24+00:00",
+      "dateAdded": "2022-06-29T11:31:07Z",
+      "dateModified": "2022-06-29T11:31:46Z",
+      "itemID": 221,
+      "itemKey": "NMQI5JGS",
+      "itemType": "webpage",
+      "key": "NMQI5JGS",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "agile4all",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/NMQI5JGS",
+      "tags": [],
+      "title": "Sprint Planning",
+      "uri": "http://zotero.org/groups/4724240/items/NMQI5JGS",
+      "url": "https://www.agile4all.nl/sprint-planning/",
+      "version": 58
+    },
+    {
+      "abstractNote": "One of the most challenging activities in Scrum is Product Backlog Refinement. During training courses I get many questions on this activity. What do you do during Product Backlog refinement? How do you prevent discussions going off track or in too much detail? Who should be there? When do you estimate? In this blog series, you will get some good practices and guidelines for having better, more effective and more vivid Product Backlog refinement. This series will consist of three posts:",
+      "accessDate": "2022-06-27T15:14:51Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/SP3969UQ/product-backlog-refinement-explained-13.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/SP3969UQ"
+        }
+      ],
+      "citationKey": "vanrooden_2015",
+      "citekey": "vanrooden_2015",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Stephan",
+          "lastName": "van Rooden"
+        }
+      ],
+      "date": "2015",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 193,
+      "itemKey": "NNWPT5VV",
+      "itemType": "webpage",
+      "key": "NNWPT5VV",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Scrum.org",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/NNWPT5VV",
+      "tags": [],
+      "title": "Product Backlog Refinement explained (1/3)",
+      "uri": "http://zotero.org/groups/4724240/items/NNWPT5VV",
+      "url": "https://www.scrum.org/resources/blog/product-backlog-refinement-explained-13",
+      "version": 9
+    },
+    {
+      "abstractNote": "This article describes what positive risks are and how you should respond to them. The response strategies - Exploit, Share, Enhance, and Accept - mentioned are recommended in the PMBOK version 4. Each response strategy is explained with an example.",
+      "accessDate": "2022-07-04T12:26:31Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-04T12:26:37Z",
+          "dateModified": "2022-07-04T12:26:37Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/HFV6LFDL/48400-how-to-respond-to-positive-risks.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/HFV6LFDL"
+        }
+      ],
+      "citationKey": "_2009",
+      "citekey": "_2009",
+      "creators": [],
+      "date": "2009-09-08T00:00:00+00:00",
+      "dateAdded": "2022-07-04T12:26:31Z",
+      "dateModified": "2022-07-04T12:26:31Z",
+      "extra": "Section: posts",
+      "itemID": 241,
+      "itemKey": "NP68VHH8",
+      "itemType": "webpage",
+      "key": "NP68VHH8",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/NP68VHH8",
+      "tags": [],
+      "title": "Strategy for Responding to Positive Risks in Project Management",
+      "uri": "http://zotero.org/groups/4724240/items/NP68VHH8",
+      "url": "https://www.brighthubpm.com/risk-management/48400-how-to-respond-to-positive-risks/",
+      "version": 100
+    },
+    {
+      "abstractNote": "A quality-control program developed in 1986 to improve efficiency. Since then, it has evolved into a more general business-management philosophy.",
+      "accessDate": "2022-06-22T12:29:29Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/EHF2ATBC/six-sigma.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/EHF2ATBC"
+        }
+      ],
+      "citationKey": "hayes_2022",
+      "citekey": "hayes_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Hayes"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 158,
+      "itemKey": "P57GXGYV",
+      "itemType": "webpage",
+      "key": "P57GXGYV",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Investopedia",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/P57GXGYV",
+      "tags": [],
+      "title": "Six Sigma Reduces Errors and Saves Capital",
+      "uri": "http://zotero.org/groups/4724240/items/P57GXGYV",
+      "url": "https://www.investopedia.com/terms/s/six-sigma.asp",
+      "version": 5
+    },
+    {
+      "abstractNote": "Het Scrumteam bestaat uit de professionals die werken aan uitvoerende projecttaken in een scrumproject. Het Scrum team gemakkelijk uitgelegd.",
+      "accessDate": "2022-06-30T06:49:16Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-30T06:49:26Z",
+          "dateModified": "2022-06-30T06:49:26Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/LMM58I4J/scrumteam.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/LMM58I4J"
+        }
+      ],
+      "citationKey": "scrumguide_2022",
+      "citekey": "scrumguide_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "scrumguide"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-30T06:49:16Z",
+      "dateModified": "2022-06-30T06:56:35Z",
+      "itemID": 225,
+      "itemKey": "P8EMVPDV",
+      "itemType": "blogPost",
+      "key": "P8EMVPDV",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Scrumguide",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/P8EMVPDV",
+      "shortTitle": "Het Scrumteam",
+      "tags": [],
+      "title": "Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl",
+      "uri": "http://zotero.org/groups/4724240/items/P8EMVPDV",
+      "url": "https://scrumguide.nl/scrumteam/",
+      "version": 70
+    },
+    {
+      "abstractNote": "The traditional view of risk is negative, characterizing risks as \"threats\" representing loss, hazard, harm and adverse consequences. But current best-practice risk guidelines and standards include the possibility of \"upside risk\" or \"opportunity\", i.e. uncertainties that could have a beneficial effect on achieving objectives. This is also reflected in the revised risk chapter in the new 2000 Edition of the PMBoK®, which defines a risk as \"an uncertain event or condition that, if it occurs, has a positive or negative effect on a project objective\".Despite this theory, most applications of the risk process still concentrate on managing threats, and approaches to opportunity management remain patchy and reactive. The tools and techniques available to practitioners seem to focus attention only on the negative side of risk. This is particularly true of the Risk Response Planning phase, where the common strategies of avoid, transfer, reduce and accept are only appropriate for dealing with threats. New strategies a",
+      "accessDate": "2022-07-04T12:26:20Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-04T12:26:27Z",
+          "dateModified": "2022-07-04T12:26:27Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/93KXA559/effective-strategies-exploiting-opportunities-7947.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/93KXA559"
+        }
+      ],
+      "citationKey": "_a",
+      "citekey": "_a",
+      "creators": [],
+      "dateAdded": "2022-07-04T12:26:20Z",
+      "dateModified": "2022-07-04T12:26:20Z",
+      "itemID": 239,
+      "itemKey": "Q4KAFUZQ",
+      "itemType": "webpage",
+      "key": "Q4KAFUZQ",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/Q4KAFUZQ",
+      "tags": [],
+      "title": "Effective Strategies For Exploiting Opportunities",
+      "uri": "http://zotero.org/groups/4724240/items/Q4KAFUZQ",
+      "url": "https://www.pmi.org/learning/library/effective-strategies-exploiting-opportunities-7947",
+      "version": 99
+    },
+    {
+      "abstractNote": "Over various projects I have applied a set of Agile practices from eXtreme Programming and Scrum. Adding personal insights to specifically handle fixed price (-negotiable scope) projects resulted i…",
+      "accessDate": "2022-06-27T13:33:41Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/A38G6JH8/definition-of-user-stories.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/A38G6JH8"
+        }
+      ],
+      "citationKey": "verheyen_2009",
+      "citekey": "verheyen_2009",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gunther",
+          "lastName": "Verheyen"
+        }
+      ],
+      "date": "2009-11-19T21:36:37+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 197,
+      "itemKey": "R2W22ZCZ",
+      "itemType": "webpage",
+      "key": "R2W22ZCZ",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Ullizee-Inc",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/R2W22ZCZ",
+      "tags": [],
+      "title": "Definition of… User Stories",
+      "uri": "http://zotero.org/groups/4724240/items/R2W22ZCZ",
+      "url": "https://guntherverheyen.com/2009/11/19/definition-of-user-stories/",
+      "version": 9
+    },
+    {
+      "abstractNote": "In dit artikel lees je wat een Definition of Done is en worden voorbeelden gegeven. Zowel voor IT Scrumteams als non-IT Scrumteams.",
+      "accessDate": "2022-06-29T10:26:48Z",
+      "attachments": [],
+      "citationKey": "agilescrumgroup_2017",
+      "citekey": "agilescrumgroup_2017",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Agile Scrum Group"
+        }
+      ],
+      "date": "2017-03-01T14:03:29+00:00",
+      "dateAdded": "2022-06-29T10:26:47Z",
+      "dateModified": "2022-06-29T10:27:56Z",
+      "itemID": 220,
+      "itemKey": "RNZLMPBC",
+      "itemType": "blogPost",
+      "key": "RNZLMPBC",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Agile Scrum Group",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/RNZLMPBC",
+      "shortTitle": "Wat is Definition of Done?",
+      "tags": [],
+      "title": "Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)",
+      "uri": "http://zotero.org/groups/4724240/items/RNZLMPBC",
+      "url": "https://agilescrumgroup.nl/wat-is-definition-of-done/",
+      "version": 12
+    },
+    {
+      "accessDate": "2022-06-22T07:45:48Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/ZHY3WZSN/Prince-2-phases.html",
+          "relations": [],
+          "tags": [],
+          "title": "Prince-2-phases.jpg (375×375)",
+          "uri": "http://zotero.org/groups/4724240/items/ZHY3WZSN"
+        }
+      ],
+      "citationKey": "_",
+      "citekey": "_",
+      "creators": [],
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 218,
+      "itemKey": "RU5UVBBC",
+      "itemType": "webpage",
+      "key": "RU5UVBBC",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/RU5UVBBC",
+      "tags": [],
+      "title": "Prince-2-phases.jpg (375×375)",
+      "uri": "http://zotero.org/groups/4724240/items/RU5UVBBC",
+      "url": "https://siliconbeach-media.s3.amazonaws.com/legacy/blog/uploads/2012/11/Prince-2-phases.jpg",
+      "version": 11
+    },
+    {
+      "abstractNote": "Scrum is a light-weight framework with a minimal set of rules. The rules help people to empirically make the most out of every single day of creating software products. Next to 3 roles and 5 events…",
+      "accessDate": "2022-06-27T13:31:36Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/7DNMLVS3/the-value-of-the-product-backlog.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/7DNMLVS3"
+        }
+      ],
+      "citationKey": "verheyen_2013",
+      "citekey": "verheyen_2013",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gunther",
+          "lastName": "Verheyen"
+        }
+      ],
+      "date": "2013-03-31T20:46:44+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 199,
+      "itemKey": "RZR6SX3N",
+      "itemType": "webpage",
+      "key": "RZR6SX3N",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Ullizee-Inc",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/RZR6SX3N",
+      "tags": [],
+      "title": "The Value of the Product Backlog",
+      "uri": "http://zotero.org/groups/4724240/items/RZR6SX3N",
+      "url": "https://guntherverheyen.com/2013/03/31/the-value-of-the-product-backlog/",
+      "version": 9
+    },
+    {
+      "abstractNote": "Six Sigma, Six Sigma? Wat is nu precies de betekenis hiervan? In deze blog leggen wij het je nog eens haarfijn uit, met een paar voorbeelden erbij",
+      "accessDate": "2022-06-22T12:30:58Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/VE8EZDL4/betekenis-six-sigma.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/VE8EZDL4"
+        }
+      ],
+      "citationKey": "bureautromp_2018",
+      "citekey": "bureautromp_2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Bureau Tromp"
+        }
+      ],
+      "date": "2018-11-30T14:52:23+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 140,
+      "itemKey": "S6F9CJY3",
+      "itemType": "blogPost",
+      "key": "S6F9CJY3",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Bureau Tromp",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/S6F9CJY3",
+      "tags": [],
+      "title": "De betekenis van Six Sigma",
+      "uri": "http://zotero.org/groups/4724240/items/S6F9CJY3",
+      "url": "https://bureautromp.nl/betekenis-six-sigma/",
+      "version": 3
+    },
+    {
+      "abstractNote": "The Internal Rate of Return (IRR) is the discount rate that makes the NPV of a project zero. Learn how to use the IRR formula.",
+      "accessDate": "2022-06-23T07:52:39Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/AM2MVZ2Q/internal-rate-return-irr.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/AM2MVZ2Q"
+        }
+      ],
+      "citationKey": "cfi_2022",
+      "citekey": "cfi_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "CFI"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 142,
+      "itemKey": "TBRZKX9V",
+      "itemType": "webpage",
+      "key": "TBRZKX9V",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Corporate Finance Institute",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/TBRZKX9V",
+      "tags": [],
+      "title": "Internal Rate of Return (IRR)",
+      "uri": "http://zotero.org/groups/4724240/items/TBRZKX9V",
+      "url": "https://corporatefinanceinstitute.com/resources/knowledge/finance/internal-rate-return-irr/",
+      "version": 4
+    },
+    {
+      "abstractNote": "The terms “quality” and “grade” are often used interchangeably. PMPs must understand the differences in quality vs grade for PMP.",
+      "accessDate": "2022-06-23T10:44:24Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/Q2KC9BN2/quality-vs-grade-pmp-guide.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/Q2KC9BN2"
+        }
+      ],
+      "citationKey": "cspo_2021",
+      "citekey": "cspo_2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Erin Aldridge, PMP, PMI-ACP, &",
+          "lastName": "CSPO"
+        }
+      ],
+      "date": "2021-05-21T07:49:00+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 146,
+      "itemKey": "TF8VEDUG",
+      "itemType": "blogPost",
+      "key": "TF8VEDUG",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "B4NAK28W",
+          "note": "<div data-schema-version=\"8\"><p><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">It is crucial to understand the difference between quality vs. grade for the PMP exam. You should understand their definitions, the high and low variants, and how they interact with each other. Let’s start by taking a look at them separately:</span></span></p>\n<ul>\n<li>\n<p><strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">Quality</span></span></strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">: measures how closely a deliverable meets expectations and functions as intended. It’s necessary to consider if there are any defects or performance errors.</span></span></p>\n<ul>\n<li>\n<span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">High quality: the deliverable matches its expected specifications. There are no defects, and it functions correctly.</span></span>\n</li>\n<li>\n<span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">Low quality: the deliverable does not fulfill requirements. It has defects or does not work well or at all.</span></span>\n</li>\n</ul>\n</li>\n<li>\n<p><strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">Grade</span></span></strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">: categorizes desired features or characteristics of a deliverable. It can be understood as a measure of what a customer values in a product.</span></span></p>\n<ul>\n<li>\n<span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">High grade: many valuable or desired features.</span></span>\n</li>\n<li>\n<span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">Low grade: limited or undesirable features.</span></span>\n</li>\n</ul>\n</li>\n</ul>\n</div>",
+          "parentItem": "TF8VEDUG",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/B4NAK28W",
+          "version": 4
+        },
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "note",
+          "key": "F7Y8J6HZ",
+          "note": "<div data-schema-version=\"8\"><p><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">There are four possible combinations when looking at a product or deliverable-based on quality and grade. At Project Management Academy, we like to use the example of a burger to explain the differences between these combinations for the PMP exam.</span></span></p>\n<ul>\n<li>\n<strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">High quality, high grade:</span></span></strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">&nbsp;this is the type of burger you might find at a five-star restaurant. It’s cooked correctly and safe to eat (high quality), and it uses a high grade of meat and other ingredients that make it desirable – and often pretty expensive (high grade).</span></span>\n</li>\n<li>\n<strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">High quality, low grade:</span></span></strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">&nbsp;you can get this type of burger at a fast-food restaurant. It’s still cooked correctly and safe to eat (high quality), but it might use low-grade meat or have unhealthy ingredients that make it less desirable (low grade).</span></span>\n</li>\n<li>\n<strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">Low quality, high grade</span></span></strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">: imagine you ordered a burger at a nice restaurant that you know uses good ingredients (high grade). However, the burger arrives burnt and inedible! Although the grade is high, the quality is low.</span></span>\n</li>\n<li>\n<strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">Low quality, low grade</span></span></strong><span style=\"color: rgb(33, 37, 41)\"><span style=\"background-color: rgb(255, 255, 255)\">: have you ever gotten a fast-food burger and bitten into a cold patty or burnt rock? That’s a low-quality AND low-grade burger.</span></span>\n</li>\n</ul>\n</div>",
+          "parentItem": "TF8VEDUG",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4724240/items/F7Y8J6HZ",
+          "version": 4
+        }
+      ],
+      "publicationTitle": "Project Management Academy Resources",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/TF8VEDUG",
+      "tags": [],
+      "title": "Quality vs. Grade for PMP",
+      "uri": "http://zotero.org/groups/4724240/items/TF8VEDUG",
+      "url": "https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/",
+      "version": 4
+    },
+    {
+      "accessDate": "2022-06-30T07:16:06Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-30T07:16:16Z",
+          "dateModified": "2022-06-30T07:16:16Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/6BXHRL27/what-are-scrum-time-boxed-events.html",
+          "relations": [],
+          "tags": [],
+          "title": "What are Time-boxed Events in Scrum?",
+          "uri": "http://zotero.org/groups/4724240/items/6BXHRL27"
+        }
+      ],
+      "citationKey": "visualparadigm_2022",
+      "citekey": "visualparadigm_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Visual Paradigm"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-30T07:16:06Z",
+      "dateModified": "2022-06-30T07:16:37Z",
+      "itemID": 227,
+      "itemKey": "U69W97VV",
+      "itemType": "webpage",
+      "key": "U69W97VV",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/U69W97VV",
+      "tags": [],
+      "title": "What are Time-boxed Events in Scrum?",
+      "uri": "http://zotero.org/groups/4724240/items/U69W97VV",
+      "url": "https://www.visual-paradigm.com/scrum/what-are-scrum-time-boxed-events/",
+      "version": 75
+    },
+    {
+      "abstractNote": "Sprint Planning is held on the first day of the Sprint. This key Scrum event is designed to provide the Team and the Product Owner an opportunity to",
+      "accessDate": "2022-06-28T06:20:55Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/BV3HIHI8/what-is-sprint-planning.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/BV3HIHI8"
+        }
+      ],
+      "citationKey": "raghuprasad_2019",
+      "citekey": "raghuprasad_2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Raghuprasad"
+        }
+      ],
+      "date": "2019-08-26T13:06:38+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 174,
+      "itemKey": "UWDYWUEF",
+      "itemType": "blogPost",
+      "key": "UWDYWUEF",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "AgileBAtech",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/UWDYWUEF",
+      "tags": [],
+      "title": "Basics of Sprint Planning - WHAT",
+      "uri": "http://zotero.org/groups/4724240/items/UWDYWUEF",
+      "url": "https://agilebatech.com/what-is-sprint-planning/",
+      "version": 7
+    },
+    {
+      "abstractNote": "Risk management is a must for Fintech, Saas, Rideshare, Cannabis, Micromobility companies, and more. Here’s a short cut to navigating exposures.",
+      "accessDate": "2022-07-04T12:22:34Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-04T12:22:43Z",
+          "dateModified": "2022-07-04T12:22:43Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/SMNR62M3/risk-management.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/SMNR62M3"
+        }
+      ],
+      "citationKey": "_2020",
+      "citekey": "_2020",
+      "creators": [],
+      "date": "2020-09-08T10:15:25+00:00",
+      "dateAdded": "2022-07-04T12:22:34Z",
+      "dateModified": "2022-07-04T12:22:34Z",
+      "itemID": 237,
+      "itemKey": "V5WS6KCG",
+      "itemType": "blogPost",
+      "key": "V5WS6KCG",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Founder Shield",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/V5WS6KCG",
+      "shortTitle": "Risk Management",
+      "tags": [],
+      "title": "Risk Management: Avoid, Reduce, Transfer or Accept?",
+      "uri": "http://zotero.org/groups/4724240/items/V5WS6KCG",
+      "url": "https://foundershield.com/blog/risk-management/",
+      "version": 95
+    },
+    {
+      "abstractNote": "Lees hier onze 5 tips voor een goede Daily Stand-up meeting. Wat wel doen? En wat niet? Ook de 4 valkuilen hebben we voor je opgesomd!",
+      "accessDate": "2022-06-27T10:38:10Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/WRGRDCYK/5-tips-goede-daily-stand-up-meeting.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/WRGRDCYK"
+        }
+      ],
+      "citationKey": "vanderwardt_2017",
+      "citekey": "vanderwardt_2017",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rik",
+          "lastName": "van der Wardt"
+        }
+      ],
+      "date": "2017-02-20T08:40:42+00:00",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 191,
+      "itemKey": "VZANGEIQ",
+      "itemType": "blogPost",
+      "key": "VZANGEIQ",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Agile Scrum Group",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/VZANGEIQ",
+      "shortTitle": "Daily Stand-up",
+      "tags": [],
+      "title": "Daily Stand-up: 5 tips voor een goede meeting (+checklist download)",
+      "uri": "http://zotero.org/groups/4724240/items/VZANGEIQ",
+      "url": "https://agilescrumgroup.nl/5-tips-goede-daily-stand-up-meeting/",
+      "version": 8
+    },
+    {
+      "abstractNote": "Incremental Methodology is a process of software engineering development where requrements are broken down into multiple standalone modules of software development cycle. Incremental development is done in steps from analysis design, implementation, testing/verification, maintenance.",
+      "accessDate": "2022-06-27T10:24:29Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/9HMPK6BH/what-is-incremental-model-in-sdlc-advantages-disadvantages.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/9HMPK6BH"
+        }
+      ],
+      "citationKey": "martin_2020",
+      "citekey": "martin_2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Matthew",
+          "lastName": "Martin"
+        }
+      ],
+      "date": "2020-01-31T00:00:00+05:30",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "extra": "Section: SDLC",
+      "itemID": 164,
+      "itemKey": "X24LCQFB",
+      "itemType": "webpage",
+      "key": "X24LCQFB",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/X24LCQFB",
+      "shortTitle": "Incremental Model in SDLC",
+      "tags": [],
+      "title": "Incremental Model in SDLC: Use, Advantage & Disadvantage",
+      "uri": "http://zotero.org/groups/4724240/items/X24LCQFB",
+      "url": "https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html",
+      "version": 6
+    },
+    {
+      "abstractNote": "Empiricism means working in a fact-based, experience-based, and evidence-based manner. Scrum implements an empirical process where progress is based on observations of reality, not fictitious plans. Scrum also places great emphasis on mind-set and cultural shift to achieve business and organizational Agility.\nThe three pillars of empiricism are as follows:",
+      "accessDate": "2022-06-27T13:37:51Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/CHB5G4GM/three-pillars-empiricism-scrum.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/CHB5G4GM"
+        }
+      ],
+      "citationKey": "doshi_2016",
+      "citekey": "doshi_2016",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Hiren",
+          "lastName": "Doshi"
+        }
+      ],
+      "date": "04/12/2016",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 150,
+      "itemKey": "XB3WT597",
+      "itemType": "webpage",
+      "key": "XB3WT597",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Scrum.org",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/XB3WT597",
+      "tags": [],
+      "title": "The Three Pillars of Empiricism (Scrum)",
+      "uri": "http://zotero.org/groups/4724240/items/XB3WT597",
+      "url": "https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum",
+      "version": 4
+    },
+    {
+      "abstractNote": "Informatiemanagement is een proces dat ervoor zorgt dat de informatiebehoeften die vanuit verschillende werk- en bedrijfsprocessen van een organisatie ontstaan worden vertaald in informatievoorziening. Informatiemanagement professionaliseert de vraagkant van ICT en valt daarom in de regel niet onder een ICT-afdeling maar onder de gebruikersorganisatie. Informatiemanagement functioneert hierbij als opdrachtgever voor de ICT-leverancier en vertegenwoordigt de gebruikersorganisatie als afnemer van de informatievoorziening.",
+      "attachments": [],
+      "citationKey": "wikipedia_2018",
+      "citekey": "wikipedia_2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Wikipedia"
+        }
+      ],
+      "date": "2018",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 208,
+      "itemKey": "XTBXYUTM",
+      "itemType": "webpage",
+      "key": "XTBXYUTM",
+      "language": "nl",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Informatiemanagement",
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/XTBXYUTM",
+      "shortTitle": "Informatiemanagement",
+      "tags": [],
+      "title": "Informatiemanagement",
+      "type": "WikiPedia",
+      "uri": "http://zotero.org/groups/4724240/items/XTBXYUTM",
+      "url": "https://nl.wikipedia.org/wiki/Informatiemanagement",
+      "version": 10
+    },
+    {
+      "abstractNote": "Discover Agile experts’ best advice on building and managing your product backlog with how-tos, checklists, and examples.",
+      "accessDate": "2022-06-27T10:43:34Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/C9EW4RDK/best-advice-scrum-and-agile-experts-managing-your-product-backlog.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/groups/4724240/items/C9EW4RDK"
+        }
+      ],
+      "citationKey": "eby_2016",
+      "citekey": "eby_2016",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kate",
+          "lastName": "Eby"
+        }
+      ],
+      "date": "October 19, 2016",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 152,
+      "itemKey": "Y6QD8VN2",
+      "itemType": "webpage",
+      "key": "Y6QD8VN2",
+      "language": "en",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/Y6QD8VN2",
+      "shortTitle": "Product Backlog 101",
+      "tags": [],
+      "title": "Product Backlog 101: Top Advice from Agile ExpertsSmartsheet",
+      "uri": "http://zotero.org/groups/4724240/items/Y6QD8VN2",
+      "url": "https://www.smartsheet.com/best-advice-scrum-and-agile-experts-managing-your-product-backlog",
+      "version": 5
+    },
+    {
+      "accessDate": "2022-06-27T10:46:19Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T13:26:32Z",
+          "dateModified": "2022-06-28T13:26:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jan/Zotero/storage/AFAT39L8/why-fixed-length-of-sprints-in-scrum.html",
+          "relations": [],
+          "tags": [],
+          "title": "Why Fixed Length Sprints in Scrum?",
+          "uri": "http://zotero.org/groups/4724240/items/AFAT39L8"
+        }
+      ],
+      "citationKey": "visual-paradigm_2022",
+      "citekey": "visual-paradigm_2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "visual-paradigm"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "itemID": 203,
+      "itemKey": "YC4LLIK7",
+      "itemType": "webpage",
+      "key": "YC4LLIK7",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/YC4LLIK7",
+      "tags": [],
+      "title": "Why Fixed Length Sprints in Scrum?",
+      "uri": "http://zotero.org/groups/4724240/items/YC4LLIK7",
+      "url": "https://www.visual-paradigm.com/scrum/why-fixed-length-of-sprints-in-scrum/",
+      "version": 10
+    },
+    {
+      "ISBN": "978-0-9973264-8-2",
+      "abstractNote": "What is project management? Scrum? Agile? DevOps? Project management simply refers to managing groups in the interest of accomplishing established goals. Scrum, Agile adn DevOps are names for various approaches to project management. In this book, you'll learn about each of these and how to implement them in your company.",
+      "attachments": [],
+      "citationKey": "stanley.etal_2020",
+      "citekey": "stanley.etal_2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jack C",
+          "lastName": "Stanley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Erik D",
+          "lastName": "Gross"
+        },
+        {
+          "creatorType": "author",
+          "name": "Tech Academy"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2022-06-28T13:26:32Z",
+      "dateModified": "2022-06-28T13:26:32Z",
+      "extra": "OCLC: 1239955671",
+      "itemID": 207,
+      "itemKey": "YHK78MNS",
+      "itemType": "book",
+      "key": "YHK78MNS",
+      "language": "English",
+      "libraryCatalog": "Open WorldCat",
+      "libraryID": 2,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/groups/4724240/items/YHK78MNS",
+      "shortTitle": "Project management handbook",
+      "tags": [],
+      "title": "Project management handbook: simplified Agile, Scrum, and DevOps for beginners",
+      "uri": "http://zotero.org/groups/4724240/items/YHK78MNS",
+      "version": 10
+    }
+  ],
+  "version": {
+    "bbt": "6.7.13",
+    "zotero": "6.0.9"
+  }
+}

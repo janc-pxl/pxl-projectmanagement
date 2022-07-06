@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "attachmentFolderPath": "./media",
+  "useMarkdownLinks": false,
+  "communityPluginSortOrder": "download",
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest"
+}

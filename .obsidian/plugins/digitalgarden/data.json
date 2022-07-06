@@ -1,0 +1,14 @@
+{
+  "githubRepo": "digitalgardenpxl",
+  "githubToken": "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",
+  "githubUserName": "pprazzi",
+  "gardenBaseUrl": "hogeschoolpxl.netlify.app",
+  "prHistory": [],
+  "theme": "{\"name\":\"Willemstad\",\"author\":\"tingmelvin\",\"repo\":\"tingmelvin/willemstad-x\",\"screenshot\":\"img/Willemstad-X.png\",\"modes\":[\"dark\",\"light\"],\"branch\":\"main\",\"publish\":true,\"cssUrl\":\"https://raw.githubusercontent.com/tingmelvin/willemstad-x/main/obsidian.css\"}",
+  "baseTheme": "light",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}
