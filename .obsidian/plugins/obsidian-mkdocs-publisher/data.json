@@ -1,0 +1,22 @@
+{
+  "githubRepo": "pxl-projectmanagement",
+  "githubName": "janc-pxl",
+  "GhToken": "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",
+  "shareKey": "share",
+  "ExcludedFolder": "",
+  "fileMenu": false,
+  "editorMenu": false,
+  "downloadedFolder": "yaml",
+  "folderDefaultName": "docs",
+  "yamlFolderKey": "",
+  "rootFolder": "",
+  "workflowName": "",
+  "transferEmbedded": true,
+  "defaultImageFolder": "docs/media",
+  "autoCleanUp": false,
+  "autoCleanUpExcluded": "",
+  "folderNote": false,
+  "convertWikiLinks": false,
+  "convertForGithub": false,
+  "subFolder": ""
+}

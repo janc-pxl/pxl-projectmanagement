@@ -1,4 +1,5 @@
 ---
+share: true
 dg-publish: true
 ---
 # Agile Projectmanagement

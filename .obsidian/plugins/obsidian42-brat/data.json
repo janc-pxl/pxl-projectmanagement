@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "obsidianMkdocs/obsidian-github-publisher",
     "stefanopagliari/bibnotes"
   ],
   "pluginSubListFrozenVersion": [],
