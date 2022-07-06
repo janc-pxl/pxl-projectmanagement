@@ -232,6 +232,7 @@ Enkele voorbeelden:
 Om deze opbrengsten af te wegen : oud tegenover het nieuwe systeem :
 
 > [!INFO] formule voor opbrengsten
+> 
 > $O = O_n - O_o$
 > - $O_n$ : de opbrengsten van het nieuwe systeem
 > - $O_o$ : de opbrengsten van het oude systeem
@@ -313,7 +314,7 @@ $$P_n = P_o(1 + i)^n$$
 
 Wanneer we €10.000 voor een periode van 5 jaar tegen 10% uitlenen, dan is de waarde van die €10.000 na vijf jaar opgelopen tot:
 
-$$P_5 = €10.000 * (1 + 0.10)^5 = €16.105$$
+$$P_5 = 10.000EUR * (1 + 0.10)^5 = 16.105EUR$$
 
 In figuur 1 kennen we de investering van dit jaar. M.a.w. we kennen de contante waarde ervan. De contante waarde van de baten kunnen we niet berekenen zonder de tijdswaarde van het geld te bekijken. We moeten dus de baten ‘contant maken’.
 
@@ -327,7 +328,7 @@ $$P_o = \frac{P_n}{(1 + i)^n}$$
 
 In ons voorbeeld krijgen we dus 
 
-$$\frac{€5.000}{(1 + 0.10)^5} = €3.104.60$$
+$$\frac{5.000EUR}{(1 + 0.10)^5} = 3.104.60EUR$$
 
 Indien we nu €3.104.60 investeren, ontvangen we over 5 jaar €5.000.
 
