@@ -21,13 +21,11 @@ author:
 - [[Informatiemanagement]] (Pdf versie [HIER](https://hogeschoolpxl-my.sharepoint.com/:b:/g/personal/20003936_pxl_be/EY4014e6_ElBp2u06q_qz6kB83RvWNXqcKzKYFcGQu0lPg?e=Zpo1Yq))
 
 
-#### Hogeschool PXL
-##### **PXL-Digital** Professionele bachelor in de toegepaste informatica
-
-##### **42TIN1250 Projectmanagement**
-
-##### **Lectoren**
-##### Dhr. Lowie Vangaal, Dhr. Jan Castermans
+Hogeschool PXL
+**PXL-Digital** Professionele bachelor in de toegepaste informatica
+**42TIN1250 Projectmanagement**
+**Lectoren**
+Dhr. Lowie Vangaal, Dhr. Jan Castermans
 
 ---
 Afdrukbare Pdf van deze pagina vind je  [HIER](https://hogeschoolpxl-my.sharepoint.com/:b:/g/personal/20003936_pxl_be/EZZ8gmLdpDBJv2wYticTy7ABcXV5vgArSTfSN3pN2owBYQ?e=SOBnBo)
