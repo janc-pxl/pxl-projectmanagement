@@ -303,13 +303,13 @@ $$
 of
 
 $$
-P_2 = P_o (1 + i)^2
+P_2 = P_o (1 + i) ^2
 $$
 
 n jaar na tijdstip 0 is het kapitaal geworden,
 
 $$
-P_n = P_o(1 + i)^n
+P_n = P_o(1 + i) ^n
 $$
 
 > [!IMPORTANT] Formule van de samengestelde interest
@@ -385,7 +385,7 @@ Dit is het verschil tussen de cumulatieve-contante-waarde der baten enerzijds en
 Uitgeschreven in symbolen wordt dit:
 
 $$
-NCW=\sum_{n=1}^N \frac{Z_n}{(1 + i)^n} - C
+NCW=\sum_{n=1} ^N
 $$
 
 > [!important] Formule Netto Contante Waarde
