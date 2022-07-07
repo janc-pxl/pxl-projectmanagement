@@ -384,11 +384,15 @@ Dit is het verschil tussen de cumulatieve-contante-waarde der baten enerzijds en
 
 Uitgeschreven in symbolen wordt dit:
 
+$$
+NCW=\sum_{n=1}^N \frac{Z_n}{(1 + i)^n} - C
+$$
+
 > [!important] Formule Netto Contante Waarde
 > 
-> $$
-> NCW=\sum_{n=1}^N \frac{Z_n}{(1 + i)^n} - C
-> $$
+> 
+> $NCW=\sum_{n=1}^N$ $\frac{Z_n}{(1 + i)^n}$ - $C$
+> 
 > 
 > - $Z_n$ = Netto-opbrengsten van het project in jaar n
 > - C = het kapitaal geïnvesteerd op tijdstip 0
@@ -413,9 +417,9 @@ De interne rendementsgraad (*Internal Rate of Return = IRR*) van een project is 
 
 > [!important] Formule interne rentabiliteit
 > 
-> $$
-> O = NCW=\sum_{n=1}^N \frac{Z_n}{(1 + IRR)^n} - C
-> $$
+> 
+> $O = NCW=\sum_{n=1}^N$ $\frac{Z_n}{(1 + IRR)^n}$ - $C$
+> 
 > 
 > - $Z_n$ = Netto-opbrengsten van het project in jaar n
 > - C = het kapitaal geïnvesteerd op tijdstip 0
@@ -425,8 +429,9 @@ De interne rendementsgraad (*Internal Rate of Return = IRR*) van een project is 
 
 Rangschikken we de termen, dan krijgen we :
 
+
 $$
-\frac{Z_1}{(1+IRR)}+\frac{Z_1}{(1+IRR)^2}+\frac{Z_1}{(1+IRR)^3}+\frac{Z_1}{(1+IRR)^4}+\frac{Z_1}{(1+IRR)^5}–C=0
+\frac{Z_1}{(1+IRR)} + \frac{Z_1}{(1+IRR)^2} + \frac{Z_1}{(1+IRR)^3} + \frac{Z_1}{(1+IRR)^4} + \frac{Z_1}{(1+IRR)^5}–C=0
 $$
 
 $$
