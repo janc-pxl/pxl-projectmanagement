@@ -19,11 +19,11 @@ share: true
 ## Definitie van een project
 ![](https://i.imgur.com/thaNoeW.png)
 
-In een organisatie heeft iedereen bepaalde taken. Indien er iets nieuws van de grond  moet komen (een systeem, een nieuw product, de bouw en inrichting van een nieuwe vleugel) en het hoort tot niemands taakgebied. Dan is het tijd voor een **project**.
+In een organisatie heeft iedereen bepaalde taken. Indien er iets nieuws van de grond moet komen (een systeem, een nieuw product, de bouw en inrichting van een nieuwe vleugel) en het hoort tot niemands taakgebied. Dan is het tijd voor een **project**.
 
 Een project heeft als doel binnen een bepaalde tijd iets nieuws van de grond te krijgen. Een project is altijd tijdelijk en de mensen die in een projectgroep zitten zijn ook maar voor een bepaalde tijdsduur bij het project betrokken. Het resultaat van het project (het nieuwe systeem, het nieuwe product, de nieuw aangebouwde vleugel) wordt na afloop in de bestaande organisatie opgenomen.
 
-Een heel volledige definitie van een project is:
+De definitie van een project is:
 
 > [!note] Definitie van een project
 > *“Een project is een geheel van activiteiten buiten de gewone bedrijfsvoering om waarbij het gaat om het realiseren van iets nieuws voor een duidelijke opdrachtgever binnen duidelijke kaders door een team van meerdere verschillende specialisten.”*

@@ -218,6 +218,7 @@ De Product Owner is altijd beschikbaar voor het projectteam (al is die zelf niet
 Typisch is de Product Owner de persoon die met de klant samenzit.
 
 Sommige van hun taken omvatten:
+
 - het duidelijk omschrijven van backlog taken
 - verzekeren dat de backlog zichtbaar en duidelijk is voor iedereen
 - verzekeren dat iedereen de prioriteiten kent, en weet wat als volgende taak wordt beschouwd.
