@@ -314,9 +314,11 @@ $$
 
 > [!IMPORTANT] Formule van de samengestelde interest
 > Dit wordt de formule van de samengestelde interest genoemd omdat we veronderstellen dat de interesten die jaarlijks vrijkomen opnieuw geïnvesteerd worden tegen dezelfde interestvoet i.
+> 
 > $$
 > P_n = P_o(1 + i)^n
 > $$
+> 
 > P$_n$ : kapitaal of waarde van de investering na n jaren
 > P$_o$ : huidige waarde van de investering ( op tijdstip 0)
 > i: rentepercentage
@@ -324,9 +326,7 @@ $$
 
 Wanneer we €10.000 voor een periode van 5 jaar tegen 10% uitlenen, dan is de waarde van die €10.000 na vijf jaar opgelopen tot:
 
-$$
-P_5 = €10.000 * (1 + 0.10)^5 = €16.105
-$$
+$P_5 = €10.000 * (1 + 0.10)^5 = €16.105$
 
 In figuur 1 kennen we de investering van dit jaar. M.a.w. we kennen de contante waarde ervan. De contante waarde van de baten kunnen we niet berekenen zonder de tijdswaarde van het geld te bekijken. We moeten dus de baten ‘contant maken’.
 
@@ -345,12 +345,12 @@ $$
 In ons voorbeeld krijgen we dus 
 
 $$
-\frac{€5.000}{(1 + 0.10)^5} = €3.104.60
+\frac{€ 5.000}{(1 + 0.10)^5} = € 3.104.60
 $$
 
 Indien we nu €3.104.60 investeren, ontvangen we over 5 jaar €5.000.
 
-| Jaar | Toekomstige waarde | (1+i)$^n$ | Contante waarde | Cumulatieve contante waarde |
+| Jaar | Toekomstige waarde | $(1+i)^n$ | Contante waarde | Cumulatieve contante waarde |
 |------|--------------------|-------------------|-----------------|-----------------------------|
 | 1    | €5.000             | 1,10              | €4.545,45       | €-5.454,55                  |
 | 2    | €5.000             | 1,21              | €4.132,225      | €-1.322,31                  |
@@ -370,7 +370,7 @@ Dit is de periode waarin de cumulatieve baten (contant gemaakt) gelijk zijn aan 
 Wanneer we naar tabel 2 kijken, merken we bij de cumulatieve contante waarde dat van de initiële investering na 2 jaar is teruggewonnen: €8.677,675. Dit betekent dat we gedurende het derde jaar nog €1.322,325 moeten terugverdienen. Tijdens dat derde jaar winnen we €3.756,575 terug.
 
 $$
-\frac{€1.322,325}{€3.756,575} = 0,352
+\frac{€ 1.322,325}{€ 3.756,575} = 0,352
 $$ 
 
 Dit zijn 0,352\*365 = 128,48 dagen.
