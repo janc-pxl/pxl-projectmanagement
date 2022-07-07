@@ -290,23 +290,31 @@ Welk bedrag zijn we bereid te investeren wanneer we daarvoor volgend jaar €5.0
 
 Stel dat we op tijdstip 0 over Po € beschikken. We beleggen dit kapitaal gedurende 1 jaar aan een interest van i %. Indien we die interest niet afhalen wordt het kapitaal 1 jaar later:
 
-$$P_1 = P_o + iP_o = P_o(1 + i)$$
+$$
+P_1 = P_o + iP_o = P_o(1 + i)
+$$
 
 Dit kapitaal P1 brengt een interest van i % per jaar op en dus krijgen we na nog eens een jaar,
 
-$$P_2 = P_1 + iP_1 = P_1(1 + i)$$
+$$
+P_2 = P_1 + iP_1 = P_1(1 + i)
+$$
 
 of
 
-$$P_2 = P_o (1 + i)^2$$
+$$
+P_2 = P_o (1 + i)^2
+$$
 
 n jaar na tijdstip 0 is het kapitaal geworden,
 
-$$P_n = P_o(1 + i)^n$$
+$$
+P_n = P_o(1 + i)^n
+$$
 
 > [!IMPORTANT] Formule van de samengestelde interest
 > Dit wordt de formule van de samengestelde interest genoemd omdat we veronderstellen dat de interesten die jaarlijks vrijkomen opnieuw geïnvesteerd worden tegen dezelfde interestvoet i.
->$$P_n = P_o(1 + i)^n$$
+> $P_n = P_o(1 + i)^n$
 > P$_n$ : kapitaal of waarde van de investering na n jaren
 > P$_o$ : huidige waarde van de investering ( op tijdstip 0)
 > i: rentepercentage
