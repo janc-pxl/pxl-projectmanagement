@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Sprint Planning"
 authors: agile4all,
 year: 2019 

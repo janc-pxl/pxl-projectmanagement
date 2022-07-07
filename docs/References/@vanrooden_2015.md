@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Product Backlog Refinement explained (1/3)
 authors: van Rooden, Stephan
 year: 2015 

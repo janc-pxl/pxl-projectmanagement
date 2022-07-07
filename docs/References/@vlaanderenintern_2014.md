@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Business Case"
 title: Business Case
 authors: vlaanderen intern,

@@ -7,14 +7,13 @@
   "obsidian-style-settings",
   "obsidian-git",
   "simple-embeds",
-  "digitalgarden",
   "obsidian-admonition",
   "obsidian-imgur-plugin",
   "bibnotes",
-  "url-into-selection",
   "obsidian-languagetool-plugin",
   "obsidian-advanced-slides",
   "obsidian-dynamic-highlights",
   "obsidian42-brat",
-  "obsidian-mkdocs-publisher"
+  "obsidian-mkdocs-publisher",
+  "convert-url-to-iframe"
 ]

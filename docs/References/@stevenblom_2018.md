@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Moeten we kiezen tussen de klant en de medewerker?
 authors: Steven Blom
 year: 2018 

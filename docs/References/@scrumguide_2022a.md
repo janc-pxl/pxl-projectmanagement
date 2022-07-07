@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Scrum takenbord | Scrumguide.nl"
 authors: Scrumguide,
 year: 2022 

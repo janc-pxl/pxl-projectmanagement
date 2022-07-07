@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "De kernwaarden van Scrum"
 authors: Verheyen, Gunther
 year: 2017 

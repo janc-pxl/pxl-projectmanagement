@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "LEAN management"
 title: LEAN management
 authors: Janse, B.

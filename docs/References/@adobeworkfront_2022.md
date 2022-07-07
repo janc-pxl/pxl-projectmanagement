@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: What is Velocity in Agile? Charts & Examples | Adobe Workfront
 authors: Adobe Workfront,
 year: 2022 

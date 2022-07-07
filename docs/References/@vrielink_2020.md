@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Hoe werken story points?"
 authors: Vrielink, Martijn
 year: 2020 

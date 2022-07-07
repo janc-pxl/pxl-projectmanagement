@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Project management handbook: simplified Agile, Scrum, and DevOps for beginners"
 authors: Stanley, Jack C; Gross, Erik D; Tech Academy
 year: 2020 

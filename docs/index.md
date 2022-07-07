@@ -1,6 +1,4 @@
 ---
-dg-home: true
-dg-publish: true
 title: '42TIN1250 Projectmanagement'
 author:
 - Lowie Vangaal

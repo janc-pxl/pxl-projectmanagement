@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "The Three Pillars of Empiricism (Scrum)"
 authors: Doshi, Hiren
 year: 2016 

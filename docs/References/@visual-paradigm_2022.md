@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Why Fixed Length Sprints in Scrum?
 authors: visual-paradigm,
 year: 2022 

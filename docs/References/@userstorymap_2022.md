@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: How to Be An Effective Product Owner
 authors: userstorymap,
 year: 2022 

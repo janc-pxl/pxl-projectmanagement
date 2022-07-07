@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Scrum Glossary"
 title: Scrum Glossary
 authors: Verheyen, Gunther

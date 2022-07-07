@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Scrum Master, Teambuilder of Agile Coach?
 authors: qframe,
 year: 2021 

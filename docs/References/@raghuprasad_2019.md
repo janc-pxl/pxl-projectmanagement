@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Basics of Sprint Planning - WHAT
 authors: Raghuprasad,
 year: 2019 

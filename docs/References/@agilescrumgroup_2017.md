@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)"
 authors: Agile Scrum Group,
 year: 2017 

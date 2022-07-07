@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl"
 authors: scrumguide,
 year: 2022 

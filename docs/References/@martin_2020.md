@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Incremental Model in SDLC: Use, Advantage & Disadvantage"
 authors: Martin, Matthew
 year: 2020 

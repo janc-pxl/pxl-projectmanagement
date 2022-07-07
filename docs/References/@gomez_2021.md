@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: The Difference Between Product and Project Management
 authors: Gomez, Jose
 year: 2021 

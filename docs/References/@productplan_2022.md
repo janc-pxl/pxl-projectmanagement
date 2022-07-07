@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "User Story"
 title: User Story
 authors: productplan,

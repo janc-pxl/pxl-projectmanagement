@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Kwaliteitsmanagement"
 title: Kwaliteitsmanagement
 authors: Wikipedia kwaliteitsmanagement,

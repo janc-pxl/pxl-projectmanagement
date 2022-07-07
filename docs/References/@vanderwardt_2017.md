@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "Daily Stand-up: 5 tips voor een goede meeting (+checklist download)"
 authors: van der Wardt, Rik
 year: 2017 

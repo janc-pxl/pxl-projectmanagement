@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: What Are The Complete Scrum Artifacts? - Agile - ZenTao
 authors: ZenTao team,
 year: 2022 

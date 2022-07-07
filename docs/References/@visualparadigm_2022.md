@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "What are Time-boxed Events in Scrum?"
 authors: Visual Paradigm,
 year: 2022 

@@ -1,6 +1,5 @@
 ---
-dg-publish: true
-number headings: first-level 1, max 3, 1.1
+share: true
 ---
 # Wat is projectmanagement?
 

@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: The 3 Scrum Roles and Responsibilities, Explained
 authors: Coursera,
 year: 2022 

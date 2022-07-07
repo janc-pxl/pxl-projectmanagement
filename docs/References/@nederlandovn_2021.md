@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Kwaliteitskringen | Optometristen Vereniging Nederland (OVN)
 authors: Nederland (OVN), Optometristen Vereniging
 year: 2021 

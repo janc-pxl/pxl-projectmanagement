@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Het verschil tussen nauwkeurigheid en reproduceerbaarheid
 authors: SICKipedia,
 year: 2021 

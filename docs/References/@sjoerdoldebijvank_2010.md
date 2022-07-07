@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: "House of Control"
 title: House of Control
 authors: Sjoerd Olde Bijvank

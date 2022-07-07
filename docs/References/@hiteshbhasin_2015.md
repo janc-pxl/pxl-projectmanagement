@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: What is Product portfolio management ?
 authors: Hitesh Bhasin,
 year: 2015 

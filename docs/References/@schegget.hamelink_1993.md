@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+share: true
 title: Netwerkplanning volgens PERT
 authors: Schegget, ter, P.J.; Hamelink, L.J.
 year: 1993 
