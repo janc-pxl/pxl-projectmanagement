@@ -290,33 +290,27 @@ Welk bedrag zijn we bereid te investeren wanneer we daarvoor volgend jaar €5.0
 
 Stel dat we op tijdstip 0 over Po € beschikken. We beleggen dit kapitaal gedurende 1 jaar aan een interest van i %. Indien we die interest niet afhalen wordt het kapitaal 1 jaar later:
 
-$$
-P_1 = P_o + iP_o = P_o(1 + i)
-$$
+$$P_1 = P_o + iP_o = P_o(1 + i)$$
 
 Dit kapitaal P1 brengt een interest van i % per jaar op en dus krijgen we na nog eens een jaar,
 
-$$
-P_2 = P_1 + iP_1 = P_1(1 + i)
-$$
+$$P_2 = P_1 + iP_1 = P_1(1 + i)$$
 
 of
 
-$P_2 = P_o (1 + i)$ <sup>2</sup>
+$$P_2 = P_o (1 + i)^2$$
 
 
 n jaar na tijdstip 0 is het kapitaal geworden,
 
 
-$P_n = P_o(1 + i)$ <sup>n</sup>
+$$P_n = P_o(1 + i)^n$$
 
 
 > [!IMPORTANT] Formule van de samengestelde interest
 > Dit wordt de formule van de samengestelde interest genoemd omdat we veronderstellen dat de interesten die jaarlijks vrijkomen opnieuw geïnvesteerd worden tegen dezelfde interestvoet i.
 > 
-> $$
-> P_n = P_o(1 + i)^n
-> $$
+> $$P_n = P_o(1 + i)^n$$
 > 
 > P$_n$ : kapitaal of waarde van de investering na n jaren
 > P$_o$ : huidige waarde van de investering ( op tijdstip 0)
@@ -326,7 +320,7 @@ $P_n = P_o(1 + i)$ <sup>n</sup>
 Wanneer we €10.000 voor een periode van 5 jaar tegen 10% uitlenen, dan is de waarde van die €10.000 na vijf jaar opgelopen tot:
 
 
-$P_5$ = 10.000 EUR * $(1 + 0.10)^5$ = 16.105 EUR
+$$P_5 = 10.000 EUR * (1 + 0.10)^5 = 16.105 EUR$$
 
 
 In figuur 1 kennen we de investering van dit jaar. M.a.w. we kennen de contante waarde ervan. De contante waarde van de baten kunnen we niet berekenen zonder de tijdswaarde van het geld te bekijken. We moeten dus de baten ‘contant maken’.
@@ -334,20 +328,16 @@ In figuur 1 kennen we de investering van dit jaar. M.a.w. we kennen de contante 
 Welk bedrag willen we nu investeren als we daarvoor gerekend met de huidige rentestand over vijf jaar €5.000 voor terug krijgen. Het antwoord hierop luidt: de contante waarde van de baten. Bij het berekenen van de contante waarde van deze baten gaan we uit van de formule van de samengestelde interest.
 
 
-$P_n = P_o(1 + i)$<sup>n</sup>
+$$P_n = P_o(1 + i)^n$$
 
 
 Uit deze vergelijking halen we P<sub>o</sub> en we krijgen
 
-$$
-P_o=\frac{ P_n }{ (1 + i)^n }
-$$
+$$P_o=\frac{ P_n }{ (1 + i)^n }$$
 
 In ons voorbeeld krijgen we dus 
 
-$$
-\frac{€ 5.000}{(1 + 0.10)^5}=€ 3.104.60
-$$
+$$\frac{€ 5.000}{(1 + 0.10)^5}=€ 3.104.60$$
 
 Indien we nu €3.104.60 investeren, ontvangen we over 5 jaar €5.000.
 
@@ -370,9 +360,8 @@ Dit is de periode waarin de cumulatieve baten (contant gemaakt) gelijk zijn aan 
 
 Wanneer we naar tabel 2 kijken, merken we bij de cumulatieve contante waarde dat van de initiële investering na 2 jaar is teruggewonnen: €8.677,675. Dit betekent dat we gedurende het derde jaar nog €1.322,325 moeten terugverdienen. Tijdens dat derde jaar winnen we €3.756,575 terug.
 
-$$
-\frac{€ 1322,325}{€ 3756,575}=0,352
-$$ 
+$$\frac{€ 1322,325}{€ 3756,575}=0,352$$ 
+
 Dit zijn 0,352\*365 = 128,48 dagen.
 
 De terugverdientijd bedraagt dus 2 jaar en 4 maanden en 8 dagen!
@@ -383,14 +372,11 @@ Dit is het verschil tussen de cumulatieve-contante-waarde der baten enerzijds en
 
 Uitgeschreven in symbolen wordt dit:
 
-$$
-NCW=\sum_{n=1} ^N
-$$
 
 > [!important] Formule Netto Contante Waarde
 > 
 > 
-> $NCW=\sum_{n=1}^N$ $\frac{Z_n}{(1 + i)^n}$ - $C$
+> $$NCW=\sum_{n=1}^N \frac{Z_n}{(1 + i)^n} - C$$
 > 
 > 
 > - $Z_n$ = Netto-opbrengsten van het project in jaar n
@@ -404,9 +390,7 @@ Is de netto-contante-waarde gelijk aan nul, dan levert het project ons hetzelfde
 
 Proberen we de alternatieve investeringsmogelijkheden te vergelijken, dan kunnen we de netto-contante-waarde uitdrukken als percentage van het geïnvesteerde bedrag.
 
-$$
-\frac{€ 8.953,925}{€ 10.000}=89,54\%
-$$
+$$\frac{€ 8.953,925}{€ 10.000}=89,54\%$$
 
 ### Interne rentabiliteit
 
@@ -417,7 +401,7 @@ De interne rendementsgraad (*Internal Rate of Return = IRR*) van een project is 
 > [!important] Formule interne rentabiliteit
 > 
 > 
-> $O = NCW=\sum_{n=1}^N$ $\frac{Z_n}{(1 + IRR)^n}$ - $C$
+> $$O = NCW=\sum_{n=1}^N \frac{Z_n}{(1 + IRR)^n} - C$$
 > 
 > 
 > - $Z_n$ = Netto-opbrengsten van het project in jaar n
@@ -429,13 +413,9 @@ De interne rendementsgraad (*Internal Rate of Return = IRR*) van een project is 
 Rangschikken we de termen, dan krijgen we :
 
 
-$$
-\frac{Z_1}{(1+IRR)} + \frac{Z_1}{(1+IRR)^2} + \frac{Z_1}{(1+IRR)^3} + \frac{Z_1}{(1+IRR)^4} + \frac{Z_1}{(1+IRR)^5}–C=0
-$$
+$$\frac{Z_1}{(1+IRR)} + \frac{Z_1}{(1+IRR)^2} + \frac{Z_1}{(1+IRR)^3} + \frac{Z_1}{(1+IRR)^4} + \frac{Z_1}{(1+IRR)^5}–C=0$$
 
-$$
-\frac{€5.000}{(1,41)^1}+\frac{€5.000}{(1,41)^2}+\frac{€5.000}{(1,41)^3}+\frac{€5.000}{(1,41)^4}+\frac{€5.000}{(1,41)^5}–€10.000=€0
-$$
+$$\frac{5.000}{(1,41)^1}+\frac{5.000}{(1,41)^2}+\frac{5.000}{(1,41)^3}+\frac{5.000}{(1,41)^4}+\frac{5.000}{(1,41)^5}–10.000=0$$
 
 Dit is een polynoom. De meeste elektronische werkbladen bevatten een IRR-functie waarmee de gebruiker zeer snel de interne rendabiliteit kan berekenen.
 
