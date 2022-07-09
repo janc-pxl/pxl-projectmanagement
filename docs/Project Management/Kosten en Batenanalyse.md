@@ -283,23 +283,23 @@ _Tabel 1 - Kosten en baten van het voorraadsysteem_
 
 Welk bedrag zijn we bereid te investeren wanneer we daarvoor volgend jaar €5.000 terug krijgen? In elk geval geen €5.000. Verder redenerend kunnen we zeggen dat wanneer we die €5.000 niet volgend jaar maar pas over vijf jaar zullen ontvangen we slechts veel minder dan €5.000 willen investeren. Die €5.000 van vandaag heeft niet dezelfde waarde als €5.000 volgend jaar of over 5 jaren. Geld heeft immers een tijdswaarde. De waarde van het geld in de tijd wordt meestal als rente aangeduid.
 
-Stel dat we op tijdstip 0 over Po € beschikken. We beleggen dit kapitaal gedurende 1 jaar aan een interest van i %. Indien we die interest niet afhalen wordt het kapitaal 1 jaar later:
+Stel dat we op tijdstip 0 over $P_0$ € beschikken. We beleggen dit kapitaal gedurende 1 jaar aan een interest van i %. Indien we die interest niet afhalen wordt het kapitaal 1 jaar later:
 
-$$P_1 = P_o + iP_o = P_o(1 + i)$$
+$$P_1 = P_0 + iP_0 = P_0(1 + i)$$
 
-Dit kapitaal P1 brengt een interest van i % per jaar op en dus krijgen we na nog eens een jaar,
+Dit kapitaal $P_1$ brengt een interest van i % per jaar op en dus krijgen we na nog eens een jaar,
 
 $$P_2 = P_1 + iP_1 = P_1(1 + i)$$
 
 of
 
-$$P_2 = P_o (1 + i)^2$$
+$$P_2 = P_0 (1 + i)^2$$
 
 
 n jaar na tijdstip 0 is het kapitaal geworden,
 
 
-$$P_n = P_o(1 + i)^n$$
+$$P_n = P_0(1 + i)^n$$
 
 
 > [!IMPORTANT] Formule van de samengestelde interest
@@ -315,7 +315,7 @@ $$P_n = P_o(1 + i)^n$$
 Wanneer we €10.000 voor een periode van 5 jaar tegen 10% uitlenen, dan is de waarde van die €10.000 na vijf jaar opgelopen tot:
 
 
-$$P_5 = 10.000 EUR * (1 + 0.10)^5 = 16.105 EUR$$
+$$P_5 = 10000 EUR * (1 + 0.10)^5 = 16105 EUR$$
 
 
 In figuur 1 kennen we de investering van dit jaar. M.a.w. we kennen de contante waarde ervan. De contante waarde van de baten kunnen we niet berekenen zonder de tijdswaarde van het geld te bekijken. We moeten dus de baten ‘contant maken’.
@@ -323,30 +323,30 @@ In figuur 1 kennen we de investering van dit jaar. M.a.w. we kennen de contante 
 Welk bedrag willen we nu investeren als we daarvoor gerekend met de huidige rentestand over vijf jaar €5.000 voor terug krijgen. Het antwoord hierop luidt: de contante waarde van de baten. Bij het berekenen van de contante waarde van deze baten gaan we uit van de formule van de samengestelde interest.
 
 
-$$P_n = P_o(1 + i)^n$$
+$$P_n = P_0(1 + i)^n$$
 
 
 Uit deze vergelijking halen we P<sub>o</sub> en we krijgen
 
-$$P_o=\frac{ P_n }{ (1 + i)^n }$$
+$$P_0=\frac{ P_n }{ (1 + i)^n }$$
 
 In ons voorbeeld krijgen we dus 
 
-$$\frac{5.000}{(1 + 0.10)^5}= 3.104.60 EUR$$
+$$\frac{5000}{(1 + 0.10)^5}= 3104.60 EUR$$
 
 Indien we nu €3.104.60 investeren, ontvangen we over 5 jaar €5.000.
 
 | Jaar | Toekomstige waarde | (1+i)<sup>n</sup> | Contante waarde | Cumulatieve contante waarde |
 |------|--------------------|-------------------|-----------------|-----------------------------|
-| 1    | €5.000             | 1,10              | €4.545,45       | €-5.454,55                  |
-| 2    | €5.000             | 1,21              | €4.132,225      | €-1.322,31                  |
-| 3    | €5.000             | 1,33              | €3.756,575      | €2.434,26                   |
-| 4    | €5.000             | 1,46              | €3.415,075      | €5.849,33                   |
-| 5    | €5.000             | 1,61              | €3.104,60       | €8.953,93                   |
+| 1    | €5000             | 1.10              | €4545.45       | €-5454.55                  |
+| 2    | €5000             | 1.21              | €4132.225      | €-1322.31                  |
+| 3    | €5000             | 1.33              | €3756.575      | €2434.26                   |
+| 4    | €5000             | 1.46              | €3415.075      | €5849.33                   |
+| 5    | €5000             | 1.61              | €3104.60       | €8953.93                   |
 
 *Tabel 2 - De contante waarde en de cumulatieve waarde van de jaarlijkse baten*
 
-In de praktijk nemen we voor het percentage om contant te maken de huidige marktrente. Betalen de banken 10 % rente op beleggingsbewijzen dan is die 10 % renten een goede vergelijkingsbasis. Grote ondernemingen kunnen immers tegen dit percentage hun geld te allen tijde beleggen. Dit is dan een risicoloze belegging. Het opzetten van een automatiseringsproject is een riskante bezigheid. Wanneer we van het vooropgestelde systeem geen hoger rendement verwachten, dan is het aanbod van de bank met het lage risico een betere investering.
+In de praktijk nemen we voor het percentage om contant te maken de huidige marktrente. Betalen de banken 10 % rente op beleggingsbewijzen dan is die 10 % rente een goede vergelijkingsbasis. Grote ondernemingen kunnen immers tegen dit percentage hun geld te allen tijde beleggen. Dit is dan een risicoloze belegging. Het opzetten van een automatiseringsproject is een riskante bezigheid. Wanneer we van het vooropgestelde systeem geen hoger rendement verwachten, dan is het aanbod van de bank met het lage risico een betere investering.
  
 
 ### De terugverdientijd 
@@ -355,7 +355,7 @@ Dit is de periode waarin de cumulatieve baten (contant gemaakt) gelijk zijn aan 
 
 Wanneer we naar tabel 2 kijken, merken we bij de cumulatieve contante waarde dat van de initiële investering na 2 jaar is teruggewonnen: €8.677,675. Dit betekent dat we gedurende het derde jaar nog €1.322,325 moeten terugverdienen. Tijdens dat derde jaar winnen we €3.756,575 terug.
 
-$$\frac{1322,325}{3756,575}=0,352$$ 
+$$\frac{1322.325}{3756.575}=0.352$$ 
 
 Dit zijn 0,352\*365 = 128,48 dagen.
 
@@ -385,7 +385,7 @@ Is de netto-contante-waarde gelijk aan nul, dan levert het project ons hetzelfde
 
 Proberen we de alternatieve investeringsmogelijkheden te vergelijken, dan kunnen we de netto-contante-waarde uitdrukken als percentage van het geïnvesteerde bedrag.
 
-$$\frac{8.953,925}{10.000}=89,54\%$$
+$$\frac{8953.925}{10000}=89.54\%$$
 
 ### Interne rentabiliteit
 
@@ -410,7 +410,7 @@ Rangschikken we de termen, dan krijgen we :
 
 $$\frac{Z_1}{(1+IRR)} + \frac{Z_1}{(1+IRR)^2} + \frac{Z_1}{(1+IRR)^3} + \frac{Z_1}{(1+IRR)^4} + \frac{Z_1}{(1+IRR)^5}–C=0$$
 
-$$\frac{5.000}{(1,41)^1}+\frac{5.000}{(1,41)^2}+\frac{5.000}{(1,41)^3}+\frac{5.000}{(1,41)^4}+\frac{5.000}{(1,41)^5}–10.000=0$$
+$$\frac{5000}{(1.41)^1}+\frac{5000}{(1.41)^2}+\frac{5000}{(1.41)^3}+\frac{5000}{(1.41)^4}+\frac{5000}{(1.41)^5}–10000=0$$
 
 Dit is een polynoom. De meeste elektronische werkbladen bevatten een IRR-functie waarmee de gebruiker zeer snel de interne rendabiliteit kan berekenen.
 
