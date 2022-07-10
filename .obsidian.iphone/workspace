@@ -7,8 +7,12 @@
         "id": "211de1e610cbbf26",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/Project Management/Agile Projectmanagement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -68,5 +73,11 @@
     "currentTab": 0
   },
   "active": "211de1e610cbbf26",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/Project Management/Agile Projectmanagement.md",
+    "docs/Project Management/Wat is Projectmanagement.md",
+    "docs/References/@cfi_2022.md",
+    "docs/Project Management/Kosten en Batenanalyse.md",
+    "docs/Project Management/Bibliografie.md"
+  ]
 }
