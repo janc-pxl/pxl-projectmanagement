@@ -7,8 +7,12 @@
         "id": "d9b6646f5333b65a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/Project Management/Agile Projectmanagement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -68,5 +73,8 @@
     "currentTab": 0
   },
   "active": "d9b6646f5333b65a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/Project Management/Agile Projectmanagement.md",
+    "docs/Project Management/Informatiemanagement.md"
+  ]
 }

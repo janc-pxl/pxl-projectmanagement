@@ -17,7 +17,7 @@ share: true
 **Agile** betekent letterlijk *"de behendigheid om snel en makkelijk te bewegen"*. 
 In projectmanagement is Agile een methodiek die populair is in de computer industrie.
 
-Een *"methodiek"* is eenvoudigweg een manier om iets uit te voeren. Het bestaat uit de methodes, technieken en de aanpak om iets daadwerkelijk af te krijgen. In projectmanagement is Agile is een van de meest gebruikte methodiek.
+Een *"methodiek"* is eenvoudigweg een manier om iets uit te voeren. Het bestaat uit de methodes, technieken en de aanpak om iets daadwerkelijk af te krijgen. In projectmanagement is Agile is een van de meest gebruikte methodieken.
 
 Agile begrijp je het best door te kijken hoe het verschilt van de eerder traditionele manieren waarop je projectmanagement uitvoert.
 
