@@ -179,7 +179,7 @@ In dit voorbeeld bekijk je “sports” als projectmanagement, “basketbal” a
 ![](https://i.imgur.com/F5ySO0e.png)
 [[@zentaoteam_2022a]]
 
-Scrum is gebaseerd op de filosofie van het empirisme, net als empirisch onderzoek in de wetenschappen. Een stevige basis. Binnen het empirisme gaat men ervan uit dat kennis alleen kan voortkomen uit ervaring. Kennis is gestoeld op (objectieve) observaties en niet op ideeën. Er is een verschil tussen ‘denken’ en ‘weten’. Met andere woorden: je kunt wel denken dat je weet wat de klant wenst, maar daarmee weet je het nog niet zeker.
+Scrum is gebaseerd op de filosofie van het empirisme, net als empirisch onderzoek in de wetenschappen. Een stevige basis. Binnen het empirisme gaat men ervan uit dat kennis alleen kan voortkomen uit ervaring. Kennis is gestoeld op (objectieve) observaties en niet op ideeën. Er is een verschil tussen ‘denken’ en ‘weten’. Met andere woorden: je kunt denken dat je weet wat de klant wenst, maar daarmee weet je het nog niet zeker.
 
 De drie pilaren ondersteunen de ontwikkeling van elke empirisch proces: **transparantie**, **inspectie** en **aanpassing**. Maar wat wil dat nu in mensentaal zeggen?
 
