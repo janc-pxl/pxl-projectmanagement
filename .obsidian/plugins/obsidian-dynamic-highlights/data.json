@@ -1,0 +1,38 @@
+{
+  "selectionHighlighter": {
+    "highlightWordAroundCursor": false,
+    "highlightSelectedText": false,
+    "maxMatches": 100,
+    "minSelectionLength": 3,
+    "highlightDelay": 0,
+    "ignoredWords": "het, een, die, deze, myself, our, ours, ourselves, you, your, yours, yourself, yourselves, him, his, himself, she, her, hers, herself, its, itself, they, them, their, theirs, themselves, what, which, who, whom, this, that, these, those, are, was, were, been, being, have, has, had, having, does, did, doing, the, and, but, because, until, while, for, with, about, against, between, into, through, during, before, after, above, below, from, down, out, off, over, under, again, further, then, once, here, there, when, where, why, how, all, any, both, each, few, more, most, other, some, such, nor, not, only, own, same, than, too, very, can, will, just, don, should,now"
+  },
+  "staticHighlighter": {
+    "queries": {
+      "Mini-Linting": {
+        "class": "Mini-Linting",
+        "color": "#A70F0F38",
+        "regex": true,
+        "query": " {2,}(?!\\|| |$)|- - |^\\s*- \\n|^ +(?![0-9-`])",
+        "mark": [
+          "match"
+        ],
+        "css": ".cm-line .Mini-Linting {\n  background: none;\n}\n\n.cm-line:not(.cm-active) .Mini-Linting {\n  outline: 1px solid var(--text-error);\n}"
+      },
+      "Filler-Words": {
+        "class": "Filler-Words",
+        "color": "#2D801838",
+        "regex": true,
+        "query": "\\b([Dd]ientengevolge|[Dd]ikwijls|[Dd]us|[Ee]cht|[Ee]chter|[Ee]en beetje|[Ee]igenlijk|[Ee]rg|[Ee]ven|[Ff]eitelijk|[Gg]ewoon|[Gg]ezellig|[Hh]eel|[Hh]opelijk|[Ii]mmers|[Ii]n feite[|[Ii]n principe|[Kk]ortom|[Kk]unnen|[Ll]euk|[Mm]eestal|[Mm]isschien|[Mm]oeten|[Nn]amelijk|[Nn]ogal|[Oo]mtrent|[Oo]ok|[Pp]lotseling|[Rr]eeds|[Rr]egelmatig|[Ss]oms|[Ss]teeds|[Tt]erwijl|[Tt]och|[Tt]oen|[Tt]ot besluit|[Tt]ot slot|[Uu]iteindelijk|[Vv]aak|[Vv]eel|[Vv]erschillende|[Ww]ant|[Ww]el|[Ww]orden|[Zz]eer|[Zz]ijn|[Zz]zouden|[Zz]ullen)\\b",
+        "mark": [
+          "match"
+        ],
+        "css": ".cm-line .Filler-Words{\n\ttext-decoration: line-through;\n\tbackground: none;\n    background-color: #e6edf5;\n\tcolor: var(--text-muted);\n}\n\n/* where to disable */\n.HyperMD-quote.cm-line .Filler-Words,\n.pdf-annotations .cm-line .Filler-Words {\n\ttext-decoration: none;\n\tcolor: unset;\n}"
+      }
+    },
+    "queryOrder": [
+      "Mini-Linting",
+      "Filler-Words"
+    ]
+  }
+}
