@@ -1,0 +1,12 @@
+{
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-purple-lt",
+  "obsidian-prism-theme@@background-type-lt": "pt-background-default-lt",
+  "Willemstad-Core@@col-palette": "cp-classic-lshtm",
+  "Willemstad-Core@@font-pairings": "fp-inter",
+  "Willemstad-Core@@sb": "sb-conjuring",
+  "Willemstad-Core@@sd": "sd-eclipse-bars",
+  "Willemstad-Ancillary@@headers-round": false,
+  "Willemstad-Core@@no-animations": false,
+  "Willemstad-Core@@mobile-style-sidepanes": false
+}
