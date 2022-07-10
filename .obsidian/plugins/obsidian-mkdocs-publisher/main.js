@@ -308,7 +308,7 @@ __export(main_exports, {
   default: () => MkdocsPublication
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian7 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 
 // mkdocsPublisher/settings.ts
 var import_obsidian = require("obsidian");
@@ -1345,12 +1345,13 @@ Octokit.plugins = [];
 var import_obsidian5 = require("obsidian");
 
 // mkdocsPublisher/utils/filePathConvertor.ts
-function createRelativePath(sourceFile, targetPath, metadata, settings) {
+function createRelativePath(sourceFile, targetFile, metadata, settings) {
   const sourcePath = getReceiptFolder(sourceFile, settings, metadata);
-  const frontmatter = metadata.getCache(sourcePath) ? metadata.getCache(sourcePath).frontmatter : null;
-  if (!frontmatter || !frontmatter[settings.shareKey]) {
-    return sourceFile.name;
+  const frontmatter = metadata.getCache(targetFile.linked.path) ? metadata.getCache(targetFile.linked.path).frontmatter : null;
+  if (targetFile.linked.extension === ".md" && (!frontmatter || !frontmatter[settings.shareKey])) {
+    return targetFile.altText;
   }
+  const targetPath = targetFile.linked.extension === "md" ? getReceiptFolder(targetFile.linked, settings, metadata) : getImageLinkOptions(targetFile.linked, settings);
   const sourceList = sourcePath.split("/");
   const targetList = targetPath.split("/");
   const diffSourcePath = sourceList.filter((x) => !targetList.includes(x));
@@ -1734,8 +1735,7 @@ function convertLinkCitation(fileContent, settings, linkedFiles, metadataCache, 
     return fileContent;
   }
   for (const linkedFile of linkedFiles) {
-    let pathInGithub = linkedFile.linked.extension === "md" ? getReceiptFolder(linkedFile.linked, settings, metadataCache) : getImageLinkOptions(linkedFile.linked, settings);
-    pathInGithub = createRelativePath(sourceFile, pathInGithub, metadataCache, settings).replace(".md", "");
+    const pathInGithub = createRelativePath(sourceFile, linkedFile, metadataCache, settings).replace(".md", "");
     const regexToReplace = new RegExp(`(\\[{2}${linkedFile.linkFrom}(\\|.*)?\\]{2})|(\\[.*\\]\\(${linkedFile.linkFrom}\\))`, "g");
     const matchedLink = fileContent.match(regexToReplace);
     if (matchedLink) {
@@ -1783,9 +1783,13 @@ var MkdocsPublish = class {
         const path = getReceiptFolder(file, this.settings, this.metadataCache);
         yield this.uploadText(file.path, text, path, file.name, ref);
         if (linkedImage.length > 0 && this.settings.transferEmbedded) {
+          new import_obsidian4.Notice(`Upload ${linkedImage.length} images!`);
+          let i = 0;
           for (const image of linkedImage) {
             yield this.uploadImage(image, ref);
+            i++;
           }
+          new import_obsidian4.Notice(`Uploaded successfully ${i} images!`);
         }
         if (one_file) {
           yield deleteFromGithub(true, this.settings, this.octokit, ref, shareFiles);
@@ -2082,6 +2086,7 @@ var FilesManagement = class extends MkdocsPublish {
 };
 
 // mkdocsPublisher/githubInteraction/branch.ts
+var import_obsidian6 = require("obsidian");
 var GithubBranch = class extends FilesManagement {
   constructor(settings, octokit, vault, metadataCache) {
     super(vault, metadataCache, settings, octokit);
@@ -2154,6 +2159,7 @@ var GithubBranch = class extends FilesManagement {
   }
   mergePullRequest(branchName, silent = false, pullRequestNumber) {
     return __async(this, null, function* () {
+      new import_obsidian6.Notice("Trying to merge request with pull request number " + pullRequestNumber + " in " + branchName);
       const octokit = new Octokit({
         auth: this.settings.GhToken
       });
@@ -2169,6 +2175,7 @@ var GithubBranch = class extends FilesManagement {
   }
   updateRepository(branchName) {
     return __async(this, null, function* () {
+      new import_obsidian6.Notice(`Update repository with ${branchName}`);
       const pullRequest = yield this.pullRequest(branchName);
       yield this.mergePullRequest(branchName, true, pullRequest.data.number);
       yield this.deleteBranch(branchName);
@@ -2201,7 +2208,7 @@ var ShareStatusBar = class {
 };
 
 // mkdocsPublisher/utils/commands.ts
-var import_obsidian6 = require("obsidian");
+var import_obsidian7 = require("obsidian");
 function shareAllMarkedNotes(PublisherManager, settings, octokit, statusBarItems, branchName, sharedFiles, createGithubBranch = true) {
   return __async(this, null, function* () {
     try {
@@ -2219,7 +2226,7 @@ function shareAllMarkedNotes(PublisherManager, settings, octokit, statusBarItems
             yield PublisherManager.publish(file, false, branchName);
           } catch (e) {
             errorCount++;
-            new import_obsidian6.Notice(`Unable to publish note ${sharedFiles[files].name}, skipping it`);
+            new import_obsidian7.Notice(`Unable to publish note ${sharedFiles[files].name}, skipping it`);
           }
         }
         statusBar.finish(8e3);
@@ -2229,19 +2236,19 @@ function shareAllMarkedNotes(PublisherManager, settings, octokit, statusBarItems
         if (update) {
           yield noticeMessage(PublisherManager, noticeValue, settings);
         } else {
-          new import_obsidian6.Notice("Error publishing to " + settings.githubRepo + ".");
+          new import_obsidian7.Notice("Error publishing to " + settings.githubRepo + ".");
         }
       }
     } catch (error) {
       console.error(error);
-      new import_obsidian6.Notice("Unable to publish multiple notes, something went wrong.");
+      new import_obsidian7.Notice("Unable to publish multiple notes, something went wrong.");
     }
   });
 }
 function deleteUnsharedDeletedNotes(PublisherManager, settings, octokit, branchName) {
   return __async(this, null, function* () {
     try {
-      new import_obsidian6.Notice(`Starting cleaning ${settings.githubRepo} `);
+      new import_obsidian7.Notice(`Starting cleaning ${settings.githubRepo} `);
       yield PublisherManager.newBranch(branchName);
       yield deleteFromGithub(false, settings, octokit, branchName, PublisherManager);
       yield PublisherManager.updateRepository(branchName);
@@ -2260,74 +2267,74 @@ function shareOneNote(branchName, PublisherManager, settings, file) {
         if (update) {
           yield noticeMessage(PublisherManager, file, settings);
         } else {
-          new import_obsidian6.Notice("Error publishing to " + settings.githubRepo + ".");
+          new import_obsidian7.Notice("Error publishing to " + settings.githubRepo + ".");
         }
       }
     } catch (error) {
       console.error(error);
-      new import_obsidian6.Notice("Error publishing to " + settings.githubRepo + ".");
+      new import_obsidian7.Notice("Error publishing to " + settings.githubRepo + ".");
     }
   });
 }
 function shareNewNote(PublisherManager, octokit, branchName, vault, plugin) {
   return __async(this, null, function* () {
     const settings = plugin.settings;
-    new import_obsidian6.Notice("Scanning the repository, may take a while...");
+    new import_obsidian7.Notice("Scanning the repository, may take a while...");
     const branchMaster = yield PublisherManager.getMasterBranch();
     const sharedFilesWithPaths = PublisherManager.getAllFileWithPath();
     const githubSharedNotes = yield PublisherManager.getAllFileFromRepo(branchMaster, octokit, settings);
     const newlySharedNotes = PublisherManager.getNewFiles(sharedFilesWithPaths, githubSharedNotes, vault);
     if (newlySharedNotes.length > 0) {
-      new import_obsidian6.Notice("Found " + newlySharedNotes.length + " new notes to send.");
+      new import_obsidian7.Notice("Found " + newlySharedNotes.length + " new notes to send.");
       const statusBarElement = plugin.addStatusBarItem();
       yield PublisherManager.newBranch(branchName);
       yield shareAllMarkedNotes(PublisherManager, plugin.settings, octokit, statusBarElement, branchName, newlySharedNotes);
     } else {
-      new import_obsidian6.Notice("No new notes to share.");
+      new import_obsidian7.Notice("No new notes to share.");
     }
   });
 }
 function shareAllEditedNotes(PublisherManager, octokit, branchName, vault, plugin) {
   return __async(this, null, function* () {
     const settings = plugin.settings;
-    new import_obsidian6.Notice("Scanning the repository, may take a while...");
+    new import_obsidian7.Notice("Scanning the repository, may take a while...");
     const branchMaster = yield PublisherManager.getMasterBranch();
     const sharedFilesWithPaths = PublisherManager.getAllFileWithPath();
     const githubSharedNotes = yield PublisherManager.getAllFileFromRepo(branchMaster, octokit, settings);
     const newSharedFiles = PublisherManager.getNewFiles(sharedFilesWithPaths, githubSharedNotes, vault);
     const newlySharedNotes = yield PublisherManager.getEditedFiles(sharedFilesWithPaths, githubSharedNotes, vault, newSharedFiles);
     if (newlySharedNotes.length > 0) {
-      new import_obsidian6.Notice("Found " + newlySharedNotes.length + " notes to send.");
+      new import_obsidian7.Notice("Found " + newlySharedNotes.length + " notes to send.");
       const statusBarElement = plugin.addStatusBarItem();
       yield PublisherManager.newBranch(branchName);
       yield shareAllMarkedNotes(PublisherManager, settings, octokit, statusBarElement, branchName, newlySharedNotes);
     } else {
-      new import_obsidian6.Notice("No new notes to publish.");
+      new import_obsidian7.Notice("No new notes to publish.");
     }
   });
 }
 function shareOnlyEdited(PublisherManager, octokit, branchName, vault, plugin) {
   return __async(this, null, function* () {
     const settings = plugin.settings;
-    new import_obsidian6.Notice("Scanning the repository, may take a while...");
+    new import_obsidian7.Notice("Scanning the repository, may take a while...");
     const branchMaster = yield PublisherManager.getMasterBranch();
     const sharedFilesWithPaths = PublisherManager.getAllFileWithPath();
     const githubSharedNotes = yield PublisherManager.getAllFileFromRepo(branchMaster, octokit, settings);
     const newSharedFiles = [];
     const newlySharedNotes = yield PublisherManager.getEditedFiles(sharedFilesWithPaths, githubSharedNotes, vault, newSharedFiles);
     if (newlySharedNotes.length > 0) {
-      new import_obsidian6.Notice("Found " + newlySharedNotes.length + " edited notes to send.");
+      new import_obsidian7.Notice("Found " + newlySharedNotes.length + " edited notes to send.");
       const statusBarElement = plugin.addStatusBarItem();
       yield PublisherManager.newBranch(branchName);
       yield shareAllMarkedNotes(PublisherManager, settings, octokit, statusBarElement, branchName, newlySharedNotes);
     } else {
-      new import_obsidian6.Notice("No new notes to publish.");
+      new import_obsidian7.Notice("No new notes to publish.");
     }
   });
 }
 
 // mkdocsPublisher/main.ts
-var MkdocsPublication = class extends import_obsidian7.Plugin {
+var MkdocsPublication = class extends import_obsidian8.Plugin {
   onload() {
     return __async(this, null, function* () {
       console.log("Github Publisher loaded");
