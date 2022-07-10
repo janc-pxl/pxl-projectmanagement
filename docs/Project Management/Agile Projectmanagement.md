@@ -135,6 +135,7 @@ Nu dat je een basisbegrip van Agile projectmanagement hebt, kijken we naar de po
 De term 'Scrum' komt van een uitdrukking uit de rugbysport waar de teamleden elkaars armen laten ineengrijpen en zo voorwaarts richting de tegenstander drukken.
 
 In de technologiewereld is Scrum een manier van projectmanagement die bestaat uit:
+
 - strak gecoördineerd teamwerk.
 - een sterke organisatie.
 - het afwerken van project volgens de vraag van de klant.
