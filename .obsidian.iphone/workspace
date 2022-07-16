@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Project Management/Agile Projectmanagement.md",
-            "mode": "preview",
-            "source": false
+            "file": "docs/Project Management/Kosten en Batenanalyse.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "file": "docs/Project Management/Kosten en Batenanalyse.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,10 +74,10 @@
   },
   "active": "211de1e610cbbf26",
   "lastOpenFiles": [
+    "docs/Project Management/Kosten en Batenanalyse.md",
     "docs/Project Management/Agile Projectmanagement.md",
     "docs/Project Management/Wat is Projectmanagement.md",
     "docs/References/@cfi_2022.md",
-    "docs/Project Management/Kosten en Batenanalyse.md",
     "docs/Project Management/Bibliografie.md"
   ]
 }
