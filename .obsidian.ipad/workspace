@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "file": "docs/Project Management/Risicomanagement.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "file": "docs/Project Management/Risicomanagement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,7 +74,7 @@
   },
   "active": "d9b6646f5333b65a",
   "lastOpenFiles": [
-    "docs/Project Management/Informatiemanagement.md",
-    "docs/Project Management/Agile Projectmanagement.md"
+    "docs/Project Management/Agile Projectmanagement.md",
+    "docs/Project Management/Informatiemanagement.md"
   ]
 }
