@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "file": "docs/Project Management/Informatiemanagement.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "file": "docs/Project Management/Informatiemanagement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
