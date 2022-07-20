@@ -141,6 +141,7 @@ In de technologiewereld is Scrum een manier van projectmanagement die bestaat ui
 - het afwerken van project volgens de vraag van de klant.
 
 Het gros van de huidige development projecten gebruikt Scrum. Ondanks de verzameling termen en technieken gebruikt in Scrum, draait het allemaal rond teamwerk, het samenspel tussen de leden van het team.
+Hoewel Scrum oorspronkelijk is bedacht voor softwareontwikkeling, wordt het toegepast in vele andere sectoren, zoals gezondheidszorg, marketing, rechtshandhaving, productontwikkeling en de publieke sector op alle niveaus.
 
 Waar we Agile beschouwen als een methodologie, spreken we bij Scrum over een framework. De reden dat we dat vermelden is zodat je weet dat er technisch een verschil is tussen beide termen.
 > [!info]
