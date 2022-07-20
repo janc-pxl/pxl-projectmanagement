@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Project Management/Kosten en Batenanalyse.md",
-            "mode": "source",
+            "file": "docs/Project Management/Agile Projectmanagement.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Project Management/Kosten en Batenanalyse.md",
+            "file": "docs/Project Management/Agile Projectmanagement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
