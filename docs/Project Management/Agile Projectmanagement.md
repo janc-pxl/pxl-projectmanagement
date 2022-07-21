@@ -683,5 +683,5 @@ De spelers tonen moed als ze Scrum correct toelichten als een empirisch proces, 
 
 ```dataview 
 list  "_'" + title + "'_ -  **" + authors  + "(" + year + ")** "  + url + "<br/><br/>"
-from "500 Reading notes" AND (outgoing([[Agile Projectmanagement]])) sort authors 
+from "docs/References" AND (outgoing([[Agile Projectmanagement]])) sort authors 
 ```
